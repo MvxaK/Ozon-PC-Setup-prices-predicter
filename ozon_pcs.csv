@@ -1,0 +1,967 @@
+name,cpu_brand,cpu_model,cpu_gen,gpu_brand,gpu_series,gpu_gen,ram_gb,rom_gb,reviews,price
+"(Intel Core i5-9600KF, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), ), черный матовы",INTEL,I5,9,NVIDIA,RTX,2060,16,512,0,308390
+"Tactio 310H6SEA (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (6 Гб), Без ОС",INTEL,I5,12,NVIDIA,RTX,3050,16,512,98,363449
+"Tactio 310H6AE (Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Без ОС",INTEL,I5,13,NVIDIA,RTX,5060,32,1024,98,536595
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), ), черный 25 декабря",INTEL,I5,12,NVIDIA,RTX,4060,32,1000,0,468891
+"Planio 310H6SEV (Intel Core i3-12100, RAM 16 ГБ, SSD 256 ГБ, Intel UHD Graphics 730, Без ОС), 211258",INTEL,I3,12,INTEL,INTEGRATED_INTEL,0,16,256,77,231280
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (16 Гб), ), черный 25 декабря",INTEL,I5,12,NVIDIA,RTX,4060,32,1024,0,440428
+"(Intel Core i5-14400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), ",INTEL,I5,14,NVIDIA,RTX,5060,16,1024,33,936468
+"Planio 310H6SEV (Intel Core i5-13400, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 730, Без ОС), 211291",INTEL,I5,13,INTEL,INTEGRATED_INTEL,0,16,512,77,316230
+"(Intel Core i5-14400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черн",INTEL,I5,14,NVIDIA,RTX,3060,16,512,33,659700
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), ), черный 25 декабря",INTEL,I5,13,NVIDIA,RTX,4070,32,1000,0,643984
+"Игровой компьютер  (Intel Core i7-7700, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 ",INTEL,I7,7,AMD,RX,580,32,512,955,266917
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), ), черный 25 декаб",INTEL,I5,13,NVIDIA,RTX,4060,32,1024,0,505759
+"(Intel Core i3-2120, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics, Windows 10 Pro), M-WORKST-32, черный 5",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,256,2,34384
+"Игровой компьютер (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Win",INTEL,I5,3,NVIDIA,GTX,1050,16,512,801,210841
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,75,NVIDIA,RTX,4060,16,512,33,785960
+"(AMD Ryzen 5 7600X3D, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 Ti SUPER (16 Гб), ), белый 26 ",AMD,RYZEN 5,76,NVIDIA,RTX,4070,32,1000,0,1833416
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный",AMD,RYZEN 5,75,NVIDIA,RTX,3060,16,1024,33,752808
+"(Intel Core i5-14400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), чер",INTEL,I5,14,NVIDIA,RTX,5070,16,1024,33,1058912
+"ПК Игровой компьютер (Intel Core i9-9900, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Win",INTEL,I9,9,NVIDIA,RTX,3070,32,512,675,448834
+"(Intel Core i7-7700, RAM 64 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro), черный 4.7 9",INTEL,I7,7,AMD,RX,580,64,1024,955,324085
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), ), черный 25 декабря",INTEL,I5,10,NVIDIA,RTX,3060,16,512,0,349183
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черны",AMD,RYZEN 5,75,NVIDIA,RTX,3060,32,256,33,872694
+"(Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), ",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,33,929292
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti Dual (",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,512,606,485847
+"Игровой компьютер (Intel Core i5-14400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Win",INTEL,I5,14,NVIDIA,RTX,5060,32,1000,17,593671
+"Компьютер  (Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows 10",INTEL,I5,2,NVIDIA,GTX,1050,16,512,753,215632
+"Tactio 320A6AE (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Без ОС), ",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,98,622143
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Window",AMD,RYZEN 5,55,AMD,RX,580,16,1024,606,335727
+"(Intel Core i7-5930K, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 10 Pro),",INTEL,I7,5,NVIDIA,RTX,2060,32,1000,190,553608
+"(AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,56,NVIDIA,RTX,5060,32,1024,33,758321
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows ",INTEL,XEON,26,AMD,OTHER_AMD,0,32,512,315,415497
+"310SC (Intel Core i5-12400, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 1969071,",INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,16,512,4,276686
+"310SC (Intel Core i3-12100, RAM 16 ГБ, SSD 256 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 1969053,",INTEL,I3,12,INTEL,INTEGRATED_INTEL,0,16,256,0,227072
+"(Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro)",INTEL,XEON,26,NVIDIA,GTX,1660,32,1000,6,338814
+"Для игр и учебы с монитором 20"" (Intel Core Q8200, RAM 4 ГБ, SSD 128 ГБ, Intel HD Graphics, Windows)",INTEL,OTHER_INTEL,0,INTEL,INTEGRATED_INTEL,0,4,128,47,213243
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pr",INTEL,XEON,26,AMD,RX,580,32,512,315,380069
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,1024,606,416023
+"(Intel Core i5-2400, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный матовый 4",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,8,240,17,101148
+"Игровой компьютер  (Intel Core i7-3770, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб),",INTEL,I7,3,NVIDIA,GTX,1660,16,512,330,285655
+"Игровой компьютер (Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб),",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,955,894698
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows",AMD,RYZEN 5,55,AMD,RX,580,16,512,606,345324
+"AMD A10-7800 8G DDR3 SSD 256G Win10Pro (AMD A10-7800, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon, Windows 10 P",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,256,2,40071
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Window",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1000,28,662187
+"Игровой компьютер  (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Wind",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,512,955,492134
+"(AMD Ryzen 3 PRO 4350G, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon, Windows 11 Pro), черный 31 декабря",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,256,0,149838
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pr",INTEL,XEON,26,AMD,RX,580,16,512,315,330915
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 ",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,512,606,383109
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows",AMD,RYZEN 5,55,AMD,RX,580,16,512,606,345173
+"(Intel Core i7-8700, RAM 16 ГБ, SSD 256 ГБ, AMD Radeon RX 580 (8 Гб), ), черный 4.3 9 отзывов 1 янва",INTEL,I7,8,AMD,RX,580,16,256,9,267614
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 ",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,512,606,397131
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), ), белый 25 декабря",INTEL,I5,12,NVIDIA,RTX,4060,16,512,0,422847
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), чер",INTEL,I5,12,NVIDIA,RTX,3060,16,1024,33,612757
+"Chili Peppers (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 10",AMD,RYZEN 5,75,NVIDIA,RTX,3060,32,960,233,692865
+"310SC (Intel Core i5-12400, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 1969065,",INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,16,512,9,282140
+"Игровой компьютер (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows",AMD,RYZEN 5,56,NVIDIA,RTX,5060,16,1000,17,488695
+"Игровой компьютер (Intel Core i5-14400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Wind",INTEL,I5,14,NVIDIA,RTX,4060,16,512,14,610745
+"Для игр и учебы с монитором 24"" (Intel Xeon E5-2670V2, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Г",INTEL,XEON,26,AMD,RX,580,16,512,151,491616
+"(Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), ), белый 25 декабря",INTEL,I7,12,NVIDIA,RTX,5070,32,1000,0,883510
+"(AMD Ryzen 5 5600G, RAM 16 ГБ, SSD 480 ГБ, AMD Radeon Vega 7, Без ОС) 4.9 10 отзывов 1 января",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,16,480,10,283466
+"(Intel Core i3-3240, RAM 8 ГБ, SSD 240 ГБ, HDD 500 ГБ, Intel Graphics, ), черный 2 января",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,8,240,0,47690
+"Planio 310H6SEV (Intel Core i3-12100, RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics 730, Без ОС), 2112567",INTEL,I3,12,INTEL,INTEGRATED_INTEL,0,8,256,56,197760
+"Lenovo m79 (AMD PRO A8-8650B, RAM 16 ГБ, HDD 500 ГБ, AMD Radeon R7, Windows 10 Pro), черно-серый 4.6",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,16,0,635,67487
+"GAMER (Intel Xeon E5-2670V3, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 10 Pro)",INTEL,XEON,26,NVIDIA,RTX,4060,32,1000,14,446245
+"Tactio 310H6AE (Intel Core i5-13400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Без ОС",INTEL,I5,13,NVIDIA,RTX,5060,16,1024,98,510134
+"Игровой компьютер (Intel Xeon E5-2650V3, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Win",INTEL,XEON,26,NVIDIA,RTX,4060,64,1024,747,645736
+"Малыш PLUS (Intel Xeon E5-2670V2, RAM 32 ГБ, SSD 640 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windo",INTEL,XEON,26,NVIDIA,GTX,1660,32,640,0,314375
+"(Intel Core i3-2100, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows), черный матовый 5.0 25 о",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,240,25,100379
+"Tactio 310H6SEA (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Без ОС",INTEL,I5,12,NVIDIA,RTX,3050,16,512,98,404127
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 ",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,512,606,382956
+"Игровой компьютер  (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows",AMD,RYZEN 5,56,NVIDIA,RTX,4060,16,512,955,535153
+"Planio 310H6SEV (Intel Core i3-13100, RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics 730, Без ОС), 2113498",INTEL,I3,13,INTEL,INTEGRATED_INTEL,0,8,256,56,195180
+"Chili Peppers (Intel Core i5-13400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows ",INTEL,I5,13,NVIDIA,RTX,4060,16,512,0,748201
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,1024,606,390435
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,115,1093252
+"Альфа D6 (AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 1",AMD,RYZEN 7,78,NVIDIA,RTX,5070,32,1000,104,1805126
+"Demolition (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windo",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,87,328605
+"(Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), ), белый 25 декабря",INTEL,I7,12,NVIDIA,RTX,4070,32,1000,0,708508
+"Игровой компьютер GTX 1660 SUPER 6GB (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GT",INTEL,XEON,26,NVIDIA,GTX,1660,32,512,323,349650
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Wi",INTEL,XEON,26,NVIDIA,GTX,1660,16,512,233,280249
+"Игровой компьютер  (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Win",INTEL,I5,12,NVIDIA,RTX,4060,16,512,753,582038
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 4000, Windows 10 Pro), черный матовый ",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,512,6,161296
+"Игровой компьютер (Intel Core i7-7700, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 P",INTEL,I7,7,AMD,RX,580,32,512,747,325894
+"(Intel Core i7-8700, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), черный 4.3 9 ",INTEL,I7,8,AMD,RX,580,16,512,9,301181
+"(Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows 10 Pro), черны",INTEL,XEON,26,NVIDIA,GTX,1650,16,512,87,249045
+"(AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5080 (16 Гб), ), черный 25 декабря",AMD,RYZEN 7,78,NVIDIA,RTX,5080,32,1000,0,1344973
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,75,NVIDIA,RTX,4060,32,256,33,928818
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,75,NVIDIA,RTX,5070,16,512,33,1102289
+"Игровой компьютер (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows ",AMD,RYZEN 5,36,NVIDIA,RTX,4060,16,512,330,536350
+"Fanatic (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 Pro",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,7,313514
+"Игровой компьютер StormGames I7-10700 (Intel Core i7-10700, RAM 16 ГБ, SSD 1000 ГБ, AMD Radeon RX 66",INTEL,I7,10,AMD,RX,6600,16,1000,0,439201
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 10 Pro), черн",INTEL,I5,12,NVIDIA,RTX,5060,32,1024,115,762924
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows",INTEL,XEON,26,NVIDIA,RTX,3060,32,960,233,450484
+"Игровой компьютер (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows ",AMD,RYZEN 5,36,NVIDIA,RTX,5060,16,512,955,571287
+"(Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 10 Pro), че",INTEL,XEON,26,NVIDIA,RTX,3060,32,960,87,453576
+"Demolition (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 ",INTEL,XEON,26,NVIDIA,RTX,2060,32,960,87,368918
+"M79 mATX (AMD A10-7800, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon R7, Windows 10 Pro), черный 2.0 1 отзыв 2 я",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,256,1,36728
+"(Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), Windows 11 Pro), ч",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,115,904373
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), чер",INTEL,I5,13,NVIDIA,RTX,5070,32,1024,115,1069809
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,480,18,159011
+"Intel i3-2100, RAM 4ГБ , SSD 120ГБ, Windows 10 Pro (Intel Core i3-2100, RAM 4 ГБ, SSD 120 ГБ, Intel ",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,4,120,7,61262
+"Demolition (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windo",INTEL,XEON,26,NVIDIA,GTX,1660,16,512,87,283995
+"Игровой компьютер (Intel Core i5-12400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Win",INTEL,I5,12,NVIDIA,RTX,5060,32,1000,17,650106
+"(AMD Ryzen 5 3600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черны",AMD,RYZEN 5,36,NVIDIA,RTX,3060,32,1024,33,620544
+"компьютер офисный (Intel Core i7-4790, RAM 16 ГБ, SSD 1000 ГБ, Intel HD Graphics 4600, Windows 10 Pr",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,1000,9,169033
+"Tactio 310H6AE (Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Без ОС",INTEL,I5,13,NVIDIA,RTX,5060,32,1024,98,661340
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Window",INTEL,XEON,26,NVIDIA,RTX,3070,32,1024,315,521696
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 4000, Windows 10 Pro), черный матовый ",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,240,32,152425
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Wi",INTEL,XEON,26,NVIDIA,GTX,1660,16,512,233,276647
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4000, Windows 10 Pro), черный матовый ",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,480,0,133679
+"(Intel Pentium G4400, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 510, Без ОС), QRDP-S20K121P3318C125F02",INTEL,OTHER_INTEL,0,INTEL,INTEGRATED_INTEL,0,8,256,1,82057
+"Малыш PLUS (Intel Xeon E5-2670V2, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows ",INTEL,XEON,26,NVIDIA,GTX,1050,32,512,48,250521
+"Для игр и учебы с монитором 20"" (Intel Core i3-2100, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics, Window",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,240,92,205431
+"Игровой компьютер StormGames I7-10700 (Intel Core i7-10700, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce R",INTEL,I7,10,NVIDIA,RTX,3060,16,1000,0,399343
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), черный",AMD,RYZEN 5,75,NVIDIA,RTX,5070,32,1024,10,1272866
+"Игровой компьютер (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4070 Ti (12 ГБ), Wind",AMD,RYZEN 5,56,NVIDIA,RTX,4070,16,512,14,840757
+"(Intel Core i5-9400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows), прозрачный 4.",INTEL,I5,9,NVIDIA,GTX,1650,16,512,5,302579
+"Игровой компьютер (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows",AMD,RYZEN 5,56,NVIDIA,RTX,5060,16,1000,17,561035
+"(Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черн",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,115,810152
+"ПК с монитором (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2500, Windows), черный ",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,512,36,255540
+"Colorful (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows",INTEL,XEON,26,NVIDIA,GTX,1660,16,512,25,274106
+"Игровой компьютер StormGames I7-10700 (Intel Core i7-10700, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RT",INTEL,I7,10,NVIDIA,RTX,4060,16,500,0,502678
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Wi",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,233,322353
+"Малыш PLUS (Intel Xeon E5-2670V2, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windo",INTEL,XEON,26,NVIDIA,GTX,1660,32,512,0,314375
+"Игровой компьютер GameSTORRM I7-10700 (Intel Core i7-10700, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce R",INTEL,I7,10,NVIDIA,RTX,3060,16,1000,159,604497
+"(Intel Core i7-12700F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черн",INTEL,I7,12,NVIDIA,RTX,5060,32,1024,115,857233
+"(Intel Core i3-2120, RAM Отсутствует, Intel HD Graphics 2000, Без ОС), черный 31 декабря",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,0,0,0,28092
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), Windows 11 Pro), ч",INTEL,I5,12,NVIDIA,RTX,5060,32,1024,115,857104
+"Игровой компьютер  (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 ",INTEL,I7,2,AMD,RX,580,16,512,955,242536
+"Office (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 550 (4 Гб), Windows 10 Pro), черный",INTEL,I7,2,AMD,RX,550,16,512,105,180510
+"GAMER (Intel Core i7-8700K, RAM 32 ГБ, SSD 1000 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), черно",INTEL,I7,8,AMD,RX,580,32,1000,152,349893
+"(Intel Core i3-12100, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics, Без ОС), 9M937AT 16, черный 1 январ",INTEL,I3,12,INTEL,INTEGRATED_INTEL,0,16,512,0,251716
+"(Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), чер",INTEL,I5,14,NVIDIA,RTX,5070,32,1024,115,1092922
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 10 Pro), черный",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,512,87,570676
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), Windows 10 Pro), черный",AMD,RYZEN 5,55,NVIDIA,RTX,4060,16,512,87,670262
+"Игровой компьютер (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 256 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10",INTEL,XEON,26,AMD,RX,580,16,256,801,230663
+"(Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 10 Pro), че",INTEL,XEON,26,NVIDIA,RTX,3060,16,512,87,398349
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), красный 5",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,16,512,87,189625
+"Pro 290 G9 SFF  A54T4ET (Intel Core i7-13700, RAM 8 ГБ, SSD 512 ГБ, Intel UHD Graphics 770, DOS), A5",INTEL,I7,13,INTEL,INTEGRATED_INTEL,0,8,512,0,363325
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,115,904249
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows 10 Pro), красный",INTEL,I5,2,NVIDIA,GTX,1650,16,512,87,241633
+"Demolition (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows ",INTEL,XEON,26,NVIDIA,RTX,3060,32,960,87,454096
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черн",INTEL,I5,13,NVIDIA,RTX,5060,32,1024,115,783281
+"(Intel Core i5-2320, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows), черный 4.8 5 от",INTEL,I5,2,NVIDIA,GTX,1650,8,256,5,256857
+"Для игр и учебы с монитором 20"" (Intel Core Q8300, RAM 4 ГБ, SSD 128 ГБ, NVIDIA GeForce GT 610 (1 Гб",INTEL,OTHER_INTEL,0,NVIDIA,OTHER_NVIDIA,0,4,128,83,214478
+"ИГРОВОЙ (AMD Ryzen 7 8700F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro)",AMD,RYZEN 7,87,NVIDIA,RTX,3060,32,1024,6,650712
+"(Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), ",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,115,998844
+"Игровой компьютер 580 8GB (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Wi",INTEL,XEON,26,AMD,RX,580,32,512,323,314502
+"(AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,56,NVIDIA,RTX,3060,32,1024,33,709702
+"Игровой компьютер  (Intel Xeon E5-2650V3, RAM 64 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows ",INTEL,XEON,26,AMD,RX,580,64,1024,330,438526
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows), прозрачный 4",INTEL,I5,10,NVIDIA,GTX,1650,16,256,5,362616
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), Windows 11 Pro), ч",INTEL,I5,13,NVIDIA,RTX,5060,32,1024,115,857292
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 (4 Гб), Windows), прозрачный 4",INTEL,I5,12,NVIDIA,GTX,1050,16,512,5,420927
+"Pro 290 G9 TWR  A54WDET (Intel Core i3-14100, RAM 8 ГБ, SSD 512 ГБ, Intel UHD Graphics 730, DOS), A5",INTEL,I3,14,INTEL,INTEGRATED_INTEL,0,8,512,0,269275
+"игровой компьютер CORETECH HYPER WHITE (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RT",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,24,988722
+"компьютер офисный (Intel Core i7-4790, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 4600, Windows 10 Pro",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,512,9,159377
+"Lenovo m79 (AMD PRO A8-8650B, RAM 8 ГБ, HDD 500 ГБ, AMD Radeon R7, Windows 10 Pro), черно-серый 4.6 ",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,0,635,51416
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), Windows 11 Pro), черн",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,115,998666
+"Альфа D7 (AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5080 (16 Гб), Windows 11 P",AMD,RYZEN 7,78,NVIDIA,RTX,5080,32,1000,104,2017640
+"(Intel Core i5-3570, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2500, Windows 11 Pro), черный 1 января",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,512,0,98229
+"Игровой (Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 5700, Windows 11 Pro), черный 5",INTEL,I5,12,AMD,RX,5700,32,1024,0,727656
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5050 (8 Гб), Windows 11 Pro), белый 2 я",AMD,RYZEN 5,55,NVIDIA,RTX,5050,16,500,0,501082
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), сере",INTEL,I5,12,NVIDIA,RTX,5060,32,1024,115,736130
+"ПК Игровой компьютер (Intel Core i7-7700, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 1",INTEL,I7,7,AMD,RX,580,32,512,675,297581
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), серебри",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,115,880924
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), Win",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1000,28,817440
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Wi",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,233,326990
+"Компьютер  (Intel Core i3-2100, RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows 10 ",INTEL,I3,2,NVIDIA,GTX,1050,8,512,955,214548
+"(Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro), к",INTEL,I7,2,NVIDIA,GTX,1660,16,512,87,295753
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro), к",INTEL,I5,2,NVIDIA,GTX,1660,16,512,87,281084
+"PRO GAMER (Intel Core i7-8700K, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro)",INTEL,I7,8,NVIDIA,OTHER_NVIDIA,0,32,512,14,291727
+"Для игр и учебы с монитором 27"" (Intel Xeon E5-2670V2, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Г",INTEL,XEON,26,AMD,RX,580,16,512,98,528584
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 (4 Гб), Windows), черный 4.8 5",INTEL,I5,10,NVIDIA,GTX,1050,16,512,5,336591
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный матовый ",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,240,1,101339
+"Игровой компьютер (Intel Core i5-12400F, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Wind",INTEL,I5,12,NVIDIA,RTX,5060,16,500,17,482275
+"ПК Игровой компьютер (Intel Core i7-7700, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows ",INTEL,I7,7,AMD,RX,580,32,1024,675,333907
+"BD-PC CB76C2 (AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows), 2",AMD,RYZEN 5,75,NVIDIA,RTX,4060,16,1024,31,607734
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 10 Pro), красный ",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,16,512,87,188189
+"компьютер (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windo",INTEL,XEON,26,NVIDIA,RTX,2060,64,1024,211,450125
+"(Intel Core i3-12100F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черны",INTEL,I3,12,NVIDIA,RTX,4060,16,512,115,612974
+"(AMD Ryzen 5 3600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,36,NVIDIA,RTX,3060,32,1024,33,620544
+"Мощный игровой (AMD Ryzen 5 2600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), ",AMD,RYZEN 5,26,AMD,RX,580,16,512,315,349140
+"Альфа D4 (AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 P",AMD,RYZEN 7,78,NVIDIA,RTX,5070,32,1000,104,1528423
+"компьютер (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro), ",INTEL,XEON,26,AMD,RX,580,64,1024,211,355684
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,1024,606,380145
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows ",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,233,301145
+"Игровой компьютер G-Force Games Intel I7-8700 RX580 32Gb 500Gb SSD (Intel Core i7-8700, RAM 16 ГБ, S",INTEL,I7,8,AMD,RX,580,16,500,0,316516
+"(Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), ",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,115,975089
+"ThinkCentre M71E SFF (Intel Core i3-2100, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics, Windows 10 Pro), ",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,256,0,40203
+"Компьютер  (Intel Core i3-2100, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows 1",INTEL,I3,2,NVIDIA,GTX,1050,16,1024,330,237741
+"(Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), сере",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,115,777647
+"Chili Peppers (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 550 (4 Гб), Windows 10 Pro),",INTEL,I7,2,AMD,RX,550,16,512,233,211050
+"(AMD A8-8600P, RAM 8 ГБ, SSD 120 ГБ, AMD Radeon R7, Windows 10 Pro), черный 4.8 16 отзывов 3 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,120,16,71165
+"Игровой компьютер  (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), W",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,753,407659
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 255 ГБ, HDD 500 ГБ, AMD Radeon RX 580 (8 ",AMD,RYZEN 5,55,AMD,RX,580,16,255,606,329466
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro), красный 5.0 8",INTEL,I5,2,AMD,RX,580,16,512,87,253373
+"(Intel Core i5-9400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 (4 Гб), Windows), прозрачный 4.",INTEL,I5,9,NVIDIA,GTX,1050,16,512,5,333361
+"Игровой компьютер (Intel Core i7-9700, RAM 64 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 ",INTEL,I7,9,AMD,RX,580,64,1024,747,512428
+"(Intel Core i5-3340, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 2500, Windows), черный матовый 4.8 26 ",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,240,26,131039
+"Игровой компьютер (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Win",INTEL,XEON,26,NVIDIA,RTX,4060,32,1024,801,576180
+"(Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro),",INTEL,XEON,26,NVIDIA,GTX,1660,32,960,87,346206
+"Компьютер  (Intel Core i5-2300, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows 10",INTEL,I5,2,NVIDIA,GTX,1050,16,512,955,215632
+"Игровой компьютер  (Intel Core i7-7700, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 ",INTEL,I7,7,AMD,RX,580,16,512,330,260441
+"Компьютер (Intel Core i5-2400, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), ",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,8,256,955,173181
+"(Intel Xeon, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (4 Гб), Windows 11 Pro), 1, черный 31 декабря",INTEL,XEON,0,AMD,RX,580,32,1024,0,279997
+"Для игр и учебы с монитором 20"" (Intel Core 2 Quad Q6600, RAM 4 ГБ, SSD 128 ГБ, NVIDIA GeForce GT 61",INTEL,OTHER_INTEL,0,NVIDIA,OTHER_NVIDIA,0,4,128,32,200910
+"Игровой компьютер (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Wi",INTEL,XEON,26,NVIDIA,RTX,3060,64,1024,747,563256
+"Игровой компьютер (ПК) (AMD Ryzen 5 1600 AF, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 5700 XT (8 Гб), W",AMD,RYZEN 5,16,AMD,RX,5700,32,1024,250,476091
+"Chili Peppers (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 P",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,233,437376
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows), черный 4.8 5",INTEL,I5,10,NVIDIA,GTX,1650,16,512,5,337585
+"игровой компьютер CORETECH HYPER K3 (Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RT",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,24,919183
+"Office (Intel Core i3-2100, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,120,105,80369
+"310SC (Intel Core i7-12700, RAM 32 ГБ, SSD 1024 ГБ, Intel UHD Graphics 770, Windows 11 Pro), 2017895",INTEL,I7,12,INTEL,INTEGRATED_INTEL,0,32,1024,9,572561
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,5060,32,1024,33,805862
+"Lenovo m79 (AMD PRO A8-8650B, RAM 32 ГБ, HDD 500 ГБ, AMD Radeon R7, Windows 10 Pro), черно-серый 4.6",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,32,0,635,122574
+"Игровой компьютер (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Win",INTEL,I5,12,NVIDIA,RTX,3060,16,512,955,498294
+"Colorful (Intel Core i5-2400, RAM 16 ГБ, SSD 240 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), ",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,16,240,25,159540
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V96 (Intel",INTEL,I3,0,AMD,RX,580,16,128,2,229336
+"ПК Игровой компьютер (Intel Core i7-7700, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (4 Гб), Windows 1",INTEL,I7,7,AMD,RX,580,32,512,675,284425
+"(Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 10 Pro), че",INTEL,XEON,26,NVIDIA,RTX,3060,16,512,87,401684
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro), чер",AMD,RYZEN 5,56,NVIDIA,GTX,1660,16,512,87,447307
+"Игровой компьютер (Intel Core i5-2300, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Win",INTEL,I5,2,NVIDIA,GTX,1050,16,512,74,244995
+"(AMD Ryzen 5 5600, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 (8 Гб), Windows), черный 4.8 283 о",AMD,RYZEN 5,56,NVIDIA,RTX,3060,32,960,283,626127
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V97 (Intel",INTEL,I3,0,AMD,RX,580,8,128,2,210140
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 255 ГБ, HDD 500 ГБ, AMD Radeon RX 580 (8 ",AMD,RYZEN 5,55,AMD,RX,580,16,255,606,324397
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), чер",INTEL,I5,12,NVIDIA,RTX,3060,32,1024,33,701788
+"Colorful (Intel Core i5-2400, RAM 8 ГБ, SSD 120 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), б",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,8,120,25,140687
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,3060,16,256,33,605165
+"Demolition (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windo",INTEL,XEON,26,NVIDIA,RTX,2060,32,960,87,389884
+"Компьютер  (Intel Core i5-2400, RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows 10 ",INTEL,I5,2,NVIDIA,GTX,1050,8,512,955,222766
+"Chili Peppers (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Window",AMD,RYZEN 5,56,NVIDIA,RTX,2060,16,512,233,483719
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,33,512397
+"Игровой компьютер  (Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Wi",INTEL,I5,12,NVIDIA,RTX,4060,32,1024,753,715723
+"Pulse (Intel Core i5-14400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows), черный",INTEL,I5,14,NVIDIA,RTX,5060,32,960,402,826689
+"Игровой компьютер RTX 3060 12GB RAM 32GB SSD 512GB 2680v4 (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 512 ",INTEL,XEON,26,NVIDIA,RTX,3060,32,512,323,506321
+"Office (AMD A10-6800K, RAM 8 ГБ, SSD 240 ГБ, AMD Radeon R5, Windows 10 Pro), черный 4.8 105 отзывов ",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,240,105,86444
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows",INTEL,XEON,26,AMD,OTHER_AMD,0,32,1024,315,458444
+"(Intel Core i5-3570, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2500, Windows 10 Pro), черный 4.8 162 о",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,8,120,162,97841
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows), прозрачный 4",INTEL,I5,10,NVIDIA,GTX,1650,16,512,5,377676
+"Demolition (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows 10 ",INTEL,XEON,26,NVIDIA,GTX,1650,16,512,87,247955
+"Pro 400 G9 TWR  99N67ET (Intel Core i5-13500, RAM 8 ГБ, SSD 512 ГБ, Intel UHD Graphics 770, DOS), 99",INTEL,I5,13,INTEL,INTEGRATED_INTEL,0,8,512,0,338432
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, HDD 1000 ГБ, AMD Radeon RX 580 (8",AMD,RYZEN 5,55,AMD,RX,580,16,256,606,334687
+"компьютер (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows ",INTEL,XEON,26,NVIDIA,RTX,3060,64,1024,211,508284
+"(Intel Core i5-3570, RAM 16 ГБ, SSD 120 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows 10 Pro), черн",INTEL,I5,3,NVIDIA,GTX,1050,16,120,162,178892
+"(AMD Ryzen 5 5600G, RAM 16 ГБ, SSD 240 ГБ, AMD Radeon Vega 7, Windows 10 Home) 5.0 1 отзыв 1 января",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,16,240,1,271515
+"Игровой компьютер (Intel Core i5-12600KF, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), ",INTEL,I5,12,NVIDIA,RTX,4060,16,512,14,667436
+"(Intel Core i5-3570, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Windows 10 Pro), черн",INTEL,I5,3,NVIDIA,GTX,1050,16,512,162,242492
+"(Intel Core i3-3240, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2500, Без ОС), черный 1 января",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,8,240,0,82953
+"Для игр и учебы с монитором 22"" (Intel Xeon E3-1220, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 650 (1",INTEL,XEON,0,NVIDIA,GTX,650,8,256,52,328441
+"(Intel Core i5-9400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows), черный 4.8 5 ",INTEL,I5,9,NVIDIA,GTX,1650,16,512,5,297738
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 P",INTEL,XEON,26,AMD,RX,580,32,1024,315,421112
+"NicePC (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro), черн",INTEL,XEON,26,AMD,RX,580,16,512,19,310223
+"D6 (Intel Core i7-12700KF, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), Windows 11 Pro), ",INTEL,I7,12,NVIDIA,RTX,4070,16,512,2,1445787
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5050 (8 Гб), Windows 11 Pro), черны",INTEL,I5,12,NVIDIA,RTX,5050,32,512,33,719639
+"(AMD Ryzen 5 5500, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,55,NVIDIA,GTX,1660,32,512,33,521053
+"(Intel Core i3-3240, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2500, Без ОС), черный 28 декабря",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,8,120,0,95505
+"(AMD Ryzen 5 3600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,36,NVIDIA,GTX,1660,16,256,33,435760
+"Мощный игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Window",AMD,RYZEN 5,55,AMD,RX,580,16,1024,606,339753
+"Игровой компьютер (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб",INTEL,XEON,26,NVIDIA,RTX,2060,32,1024,330,409016
+"Для игр и учебы с монитором 20"" (Intel Core Q8200, RAM 4 ГБ, SSD 128 ГБ, Intel HD Graphics, Windows)",INTEL,OTHER_INTEL,0,INTEL,INTEGRATED_INTEL,0,4,128,98,205841
+"Игровой компьютер  (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 1",INTEL,XEON,26,AMD,RX,580,16,512,753,264291
+"Office (AMD A10-6800K, RAM 4 ГБ, SSD 120 ГБ, AMD Radeon R5, Windows 10 Pro), черный 4.8 105 отзывов ",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,4,120,105,72867
+"Компьютер  (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro)",INTEL,I7,2,NVIDIA,OTHER_NVIDIA,0,16,512,955,213999
+"(Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 Pro), черны",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,87,316068
+"Игровой компьютер (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Wind",AMD,RYZEN 5,36,NVIDIA,RTX,5060,16,512,330,721370
+"(Intel Core i7-5960X, RAM 32 ГБ, SSD 1512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 10 Pro), белый",INTEL,I7,5,NVIDIA,RTX,4060,32,1512,64,627103
+"Игровой компьютер  (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 256 ГБ, AMD Radeon RX 580 (8 Гб), Windows 1",INTEL,XEON,26,AMD,RX,580,32,256,955,250005
+"(Intel Core i5-8500, RAM 32 ГБ, SSD 512 ГБ, Intel UHD Graphics 630, Windows), черный матовый 1 январ",INTEL,I5,8,INTEL,INTEGRATED_INTEL,0,32,512,0,186620
+"Игровой компьютер Paladin 1888 (AMD Ryzen 7 8700F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 5070 (",AMD,RYZEN 7,87,NVIDIA,RTX,5070,32,2000,3,1484596
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V157 (Inte",INTEL,I3,0,NVIDIA,RTX,3060,8,128,2,351691
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 5050 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,55,NVIDIA,RTX,5050,16,256,5,611785
+"Мощный игровой (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows 11",AMD,RYZEN 5,56,NVIDIA,RTX,3070,32,1024,315,553704
+"компьютер (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windo",INTEL,XEON,26,NVIDIA,GTX,1660,64,1024,211,400927
+"Для игр и учебы с монитором 20"" (Intel Core Q8200, RAM 8 ГБ, SSD 128 ГБ, Intel HD Graphics, Windows)",INTEL,OTHER_INTEL,0,INTEL,INTEGRATED_INTEL,0,8,128,151,210891
+"RED.DOT Chili Peppers (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, AMD Radeon RX 580 (8 Гб), Window",INTEL,XEON,26,AMD,RX,580,32,960,0,310391
+"(Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 710 (2 Гб), Windows 10 Pro), красный 5",INTEL,I7,2,NVIDIA,OTHER_NVIDIA,0,16,512,87,204212
+"Игровой компьютер (Intel Core i5-3470, RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Wind",INTEL,I5,3,NVIDIA,GTX,1050,8,512,747,239340
+"Игровой компьютер GameSTOR (Intel Core i7-10700, RAM 16 ГБ, SSD 500 ГБ, HDD 500 ГБ, NVIDIA GeForce G",INTEL,I7,10,NVIDIA,GTX,1660,16,500,0,400743
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows",INTEL,XEON,26,AMD,OTHER_AMD,0,16,1024,315,404261
+"Игровой компьютер  (AMD Ryzen 5 5500, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), ",AMD,RYZEN 5,55,NVIDIA,GTX,1660,32,1024,753,473115
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 10 Pro),",INTEL,I5,12,NVIDIA,RTX,2060,16,512,87,510919
+"Игровой компьютер RTX 5060 8GB RAM 64GB SSD 1024GB 2680v4 (Intel Xeon E5-2680V4, RAM 64 ГБ, SSD 1024",INTEL,XEON,26,NVIDIA,RTX,5060,64,1024,323,654382
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Window",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1000,28,762834
+"310SC (Intel Core i3-12100, RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 1969049, ",INTEL,I3,12,INTEL,INTEGRATED_INTEL,0,8,256,9,221925
+"(Intel Core i5-4590, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 4600, Windows), черный матовый 4.6 4 от",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,8,120,4,113507
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 (4 Гб), Windows), прозрачный 4",INTEL,I5,10,NVIDIA,GTX,1050,16,512,5,357611
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V145 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,8,128,2,301004
+"Игровой компьютер (Intel Core i7-7700, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows ",INTEL,I7,7,NVIDIA,OTHER_NVIDIA,0,32,512,747,265401
+"Игровой компьютер GameSTORRM I7-10700 (Intel Core i7-10700, RAM 16 ГБ, SSD 1000 ГБ, AMD Radeon RX 57",INTEL,I7,10,AMD,RX,5700,16,1000,159,675456
+"(Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (2 Гб), ), черный 5.0 1 отзыв 1 ",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,32,512,1,251264
+"(Intel Core i5-3570, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 2500, Windows 10 Pro), черный 4.8 162 ",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,256,162,123764
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 240 ГБ, NVIDIA GeForce GT 710 (2 Гб), Без ОС) 5.0 4 отзыва 1 я",INTEL,I5,10,NVIDIA,OTHER_NVIDIA,0,16,240,4,333109
+"Игровой компьютер CyberNote 857 (Intel Core i5-3470, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 3050",INTEL,I5,3,NVIDIA,RTX,3050,16,1000,8,475361
+"Игровой компьютер Paladin 2121 (Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 506",INTEL,I7,12,NVIDIA,RTX,5060,32,1000,4,918337
+"Chili Peppers (Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Wi",INTEL,I5,10,NVIDIA,RTX,2060,16,512,233,535840
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V90 (Intel",INTEL,I3,0,AMD,RX,580,16,512,2,245697
+"Компьютер  (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pr",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,16,256,330,197827
+"310H3 (Intel Pentium Gold G5420, RAM 4 ГБ, SSD 120 ГБ, Intel UHD Graphics 610, Windows 10 Pro), 1610",INTEL,OTHER_INTEL,0,INTEL,INTEGRATED_INTEL,0,4,120,5,91252
+"Компьютер LuckyGame2 (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 120 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб)",INTEL,XEON,26,NVIDIA,GTX,1050,16,120,2,229982
+"Игровой компьютер  (Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), ",INTEL,I5,10,NVIDIA,RTX,3060,16,512,753,468266
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 ",AMD,RYZEN 5,55,NVIDIA,RTX,3070,16,1024,33,512475
+"(Intel Core i5-8500, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 630, Windows), черный матовый 5.0 2 о",INTEL,I5,8,INTEL,INTEGRATED_INTEL,0,16,512,2,185994
+"Pulse (Intel Core i5-14400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows), че",INTEL,I5,14,NVIDIA,RTX,5060,32,960,402,1013979
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,3060,16,512,33,615552
+"(Intel Core i5-9400F, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1050 (4 Гб), Windows), черный 4.8 5 о",INTEL,I5,9,NVIDIA,GTX,1050,8,256,5,276561
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 11 Pro), черны",INTEL,I5,10,NVIDIA,RTX,3050,16,512,33,503089
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V154 (Inte",INTEL,I3,0,NVIDIA,RTX,3060,8,256,2,365882
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 550 (4 Гб), Windows 10 Pro), красный 5.0 8",INTEL,I5,2,AMD,RX,550,16,512,87,195097
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,33,1163506
+"(Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 550 (4 Гб), Windows 10 Pro), красный 5.0 8",INTEL,I7,2,AMD,RX,550,16,512,87,209945
+"Игровой компьютер (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб), Win",INTEL,I7,2,NVIDIA,GTX,1050,16,512,801,228489
+"(Intel Core i7-4770, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Windows), черный матовый 5.0 2 о",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,240,2,150387
+"Colorful (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 1",INTEL,I7,2,NVIDIA,GTX,1660,16,512,25,277626
+"Игровой компьютер  (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), W",AMD,RYZEN 5,36,NVIDIA,GTX,1660,16,512,753,350603
+"Игровой компьютер RTX 4060 8GB RAM 32GB SSD 512GB 2680v4 (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 512 Г",INTEL,XEON,26,NVIDIA,RTX,4060,32,512,323,542395
+"(Intel Core i5-9400, RAM 16 ГБ, SSD 480 ГБ, Intel UHD Graphics 630, Windows 10 Home), черный 1 январ",INTEL,I5,9,INTEL,INTEGRATED_INTEL,0,16,480,0,218974
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V70 (Intel",INTEL,I3,12,NVIDIA,RTX,3060,8,256,2,479421
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Wi",INTEL,XEON,26,NVIDIA,RTX,2060,32,960,233,384646
+"Chili Peppers (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 10 ",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,512,233,550205
+"(Intel Core i7-4790, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 4600, Windows), черный матовый. Уцененн",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,8,256,0,138693
+"Игровой компьютер (Intel Core i5-14400F, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), W",INTEL,I5,14,NVIDIA,RTX,5060,16,500,17,653151
+"(Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows 10 Pro), красный",INTEL,I7,2,NVIDIA,GTX,1650,16,512,87,261731
+"(Intel Core i7-12700F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows), черный 4.6 4",INTEL,I7,12,NVIDIA,RTX,5060,32,960,402,827543
+"Игровой компьютер (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows)",AMD,RYZEN 5,56,NVIDIA,RTX,5060,16,500,17,531167
+"Demolition (Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 ",INTEL,I5,10,NVIDIA,RTX,2060,16,512,87,458645
+"Игровой компьютер  (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Window",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,512,753,513860
+"(AMD Ryzen 5 3400G, RAM 16 ГБ, SSD 480 ГБ, AMD Radeon Vega 11, Без ОС) 5.0 1 отзыв 1 января",AMD,RYZEN 5,34,AMD,OTHER_AMD,0,16,480,1,231077
+"(Intel Core i3-2120, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Без ОС), черный 5.0 2 отзыва 1 ян",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,240,2,100442
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows",INTEL,XEON,26,NVIDIA,RTX,3070,16,512,315,453942
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, HDD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro), чер",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,512,23,171837
+"Игровой компьютер RTX 4060 8GB RAM 64GB SSD 1024GB 2680v4 (Intel Xeon E5-2680V4, RAM 64 ГБ, SSD 1024",INTEL,XEON,26,NVIDIA,RTX,4060,64,1024,323,640974
+"Игровой компьютер ZenPlay Pro Ryzen 5600G (AMD Ryzen 5 5600G, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX V",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,16,512,5,486198
+"(Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 10 Pro),",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,87,335167
+"Игровой компьютер GameSTORRM I7-10700 (Intel Core i7-10700, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 570",INTEL,I7,10,AMD,RX,5700,16,512,159,417546
+"(Intel Xeon, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (4 Гб), Windows 11 Pro), 1, черный 5.0 1 отзыв",INTEL,XEON,0,AMD,RX,580,32,512,1,251216
+"Игровой компьютер (Intel Core i5-14600KF, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), W",INTEL,I5,14,NVIDIA,RTX,5070,32,1000,28,1047159
+"Colorful (Intel Core i7-2600, RAM 16 ГБ, SSD 240 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), ",INTEL,I7,2,NVIDIA,OTHER_NVIDIA,0,16,240,25,189278
+"(AMD Ryzen 5 3600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 P",AMD,RYZEN 5,36,NVIDIA,RTX,3070,16,256,33,480164
+"Игровой компьютер  (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Win",INTEL,XEON,26,NVIDIA,RTX,4060,16,512,955,508227
+"Игровой компьютер  (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows ",INTEL,XEON,26,AMD,RX,580,32,1024,753,367688
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V241 (Inte",INTEL,I3,0,NVIDIA,RTX,3060,8,128,2,372978
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), че",INTEL,I5,10,NVIDIA,RTX,3060,16,512,33,568820
+"Компьютер  (Intel Core i3-3220, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro)",INTEL,I3,3,NVIDIA,OTHER_NVIDIA,0,16,512,753,194252
+"Lenovo m79 (AMD PRO A8-8650B, RAM 4 ГБ, HDD 500 ГБ, AMD Radeon R7, Windows 10 Pro), черно-серый 4.6 ",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,4,0,635,45366
+"Компьютер  (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pr",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,16,512,753,212533
+"Компьютер для любых игр (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4070 SUPER (12",AMD,RYZEN 5,56,NVIDIA,RTX,4070,16,1000,12,906837
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows",INTEL,XEON,26,NVIDIA,RTX,3070,32,512,315,506769
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V109 (Inte",INTEL,I3,0,AMD,RX,5600,8,128,2,240619
+"Альфа D3S (AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows ",AMD,RYZEN 7,78,NVIDIA,RTX,5060,32,1000,104,1420548
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 3060 Dual (12 Гб), ",AMD,RYZEN 5,75,NVIDIA,RTX,3060,32,1000,14,791072
+"DK3 (AMD Ryzen 3 3200G, RAM 16 ГБ, SSD 256 ГБ, AMD Radeon RX Vega 8, Windows 11 Pro), 20213578, черн",AMD,RYZEN 3,32,AMD,OTHER_AMD,0,16,256,1,427592
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 10 Pro), белый ",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,512,87,564583
+"(AMD Ryzen 5 3600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,36,NVIDIA,RTX,3050,16,256,33,474957
+"Игровой компьютер RTX 5060 8GB RAM 32GB SSD 512GB 2680v4 (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 512 Г",INTEL,XEON,26,NVIDIA,RTX,5060,32,512,323,556281
+"Офисный компьютер (Intel Core i3-2100, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro)",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,256,955,104370
+"(Intel Core i3-12100F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro),",INTEL,I3,12,NVIDIA,GTX,1660,16,512,33,458522
+"Chili Peppers (Intel Xeon E5-2650V3, RAM 32 ГБ, SSD 960 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro",INTEL,XEON,26,AMD,RX,580,32,960,233,310391
+"Игровой компьютер ZenPlay Pro Ryzen 4600G (AMD Ryzen 5 4600G, RAM 14 ГБ, SSD 512 ГБ, AMD Radeon RX V",AMD,RYZEN 5,46,AMD,OTHER_AMD,0,14,512,5,406790
+"(Intel Core i7-12700F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows), белый 4.6 40",INTEL,I7,12,NVIDIA,RTX,5060,32,960,402,897969
+"(AMD Ryzen 5 5500, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 ",AMD,RYZEN 5,55,NVIDIA,RTX,3070,32,1024,33,604129
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), че",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,1024,33,486419
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 10 Pro), чер",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,87,470495
+"(Intel Core i5-3330, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2500, Windows), черный матовый 5.0 7 от",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,8,120,7,101717
+"Office (Intel Core i3-3220, RAM 4 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), белый 4.8",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,4,120,105,81637
+"Chili Peppers (Intel Core i5-10400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Wi",INTEL,I5,10,NVIDIA,RTX,2060,32,960,233,538854
+"Игровой компьютер RTX 3060 12GB RAM 32GB SSD 512GB 2650v2 (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ",INTEL,XEON,26,NVIDIA,RTX,3060,32,512,323,438726
+"(Intel Core i5-660, RAM 4 ГБ, SSD 120 ГБ, Intel HD Graphics, Windows 10 Home), серый 31 декабря",INTEL,I5,6,INTEL,INTEGRATED_INTEL,0,4,120,0,38448
+"(Intel Core i5-2320, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 (4 Гб), Windows), прозрачный 4.8",INTEL,I5,2,NVIDIA,GTX,1050,16,512,5,285153
+"Colorful (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro)",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,16,512,25,206614
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4600, Windows 10 Home), черный матовый",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,480,0,130279
+"Игровой компьютер (AMD Ryzen 5 8400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Window",AMD,RYZEN 5,84,NVIDIA,RTX,3050,32,1024,14,811664
+"Игровой компьютер RX 580 8GB RAM 32GB SSD 512GB 2680v4 (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD 512 ГБ,",INTEL,XEON,26,AMD,RX,580,32,512,323,373252
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,55,NVIDIA,RTX,3050,16,1024,33,531431
+"(Intel Core i5-10400F, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows), прозрачный 4.",INTEL,I5,10,NVIDIA,GTX,1650,8,256,5,347595
+"Игровой компьютер 794 (Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, HDD 2000 ГБ, NVIDIA GeForce RTX",INTEL,I7,12,NVIDIA,RTX,3060,32,1000,4,972298
+"Игровой компьютер G-Force Play Intel I7-8700 RX580 32Gb 1Tb SSD (Intel Core i7-8700, RAM 32 ГБ, SSD ",INTEL,I7,8,AMD,RX,580,32,1000,2,401622
+"Мощный игровой (AMD Ryzen 5 5500, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows 11",AMD,RYZEN 5,55,NVIDIA,RTX,3070,32,1024,315,586419
+"(Intel Core i3-7100T, RAM 16 ГБ, SSD 256 ГБ, Intel UHD Graphics 610, ), черный 5.0 1 отзыв 2 января",INTEL,I3,7,INTEL,INTEGRATED_INTEL,0,16,256,1,91252
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V91 (Intel",INTEL,I3,0,AMD,RX,580,8,512,2,234525
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 4000, Windows 10 Home), черный матовый",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,240,0,124400
+"Форс D3S (Intel Core i5-14400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows ",INTEL,I5,14,NVIDIA,RTX,5060,32,1000,104,1039660
+"Игровой компьютер (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Win",INTEL,I5,12,NVIDIA,RTX,3060,16,512,747,569956
+"HP 290 G3 (Intel Celeron G5905, RAM 4 ГБ, SSD 128 ГБ, Intel UHD Graphics 610, Windows 10 Pro), 36T66",INTEL,OTHER_INTEL,0,INTEL,INTEGRATED_INTEL,0,4,128,0,66658
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V133 (Inte",INTEL,I3,0,NVIDIA,GTX,1060,8,128,2,215219
+"(Intel Core i5-4590, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 4600, Windows), черный матовый 4.7 26 ",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,16,120,26,129164
+"Игровой компьютер (Intel Core i7-14700F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), ",INTEL,I7,14,NVIDIA,RTX,5060,32,1024,955,931410
+"Chili Peppers (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Window",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,512,233,472274
+"Chili Peppers (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 550 (4 Гб), Windows 10 Pro),",INTEL,I7,2,AMD,RX,550,16,512,233,207515
+"полностью новый компьютер с Windows 7 и 10 одновременно (AMD A8-7600, RAM 8 ГБ, SSD 120 ГБ, HDD 500 ",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,120,5,85446
+"(Intel Core i7-5930K, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows), белый, фиол",INTEL,I7,5,NVIDIA,RTX,3060,32,1000,9,573394
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,3060,32,256,33,660971
+"Игровой компьютер (Intel Core i5-14400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб),",INTEL,I5,14,NVIDIA,RTX,5060,32,1000,28,938160
+"(Intel Core i5-4690, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 4600, Windows 10 Pro), 4690, черный ма",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,16,512,9,99764
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, HDD 1000 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), Windows",INTEL,I5,13,NVIDIA,RTX,4070,32,1000,190,1075785
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), че",INTEL,I5,12,NVIDIA,RTX,3060,16,256,33,612962
+"Игровой компьютер RTX 2060 SUPER 8GB RAM 32GB SSD 512GB 2680v4 (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD",INTEL,XEON,26,NVIDIA,RTX,2060,32,512,323,449159
+"Silent Storm (AMD Ryzen 7 5700X, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11",AMD,RYZEN 7,57,NVIDIA,RTX,3060,32,1000,61,648384
+"(Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 710 (2 Гб), Windows 10 Pro), красный 5",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,16,512,87,190994
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,512,33,567778
+"i5 12400/16GB RAM/512GB SSD/RX580 8GB/Windows 11Pro (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, AM",INTEL,I5,12,AMD,RX,580,16,512,63,0
+"(AMD Ryzen 5 5600, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,56,NVIDIA,RTX,3060,32,512,33,669960
+"(Intel Core i7-14700F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3050 (6 Гб), Без ОС), 9S6-B20821-0",INTEL,I7,14,NVIDIA,RTX,3050,32,1024,0,637325
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V94 (Intel",INTEL,I3,0,AMD,RX,580,8,256,2,224364
+"(AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черный",AMD,RYZEN 5,36,NVIDIA,RTX,3060,16,512,33,551167
+"Игровой компьютер (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows",AMD,RYZEN 5,36,NVIDIA,RTX,3060,16,512,197,495892
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10",AMD,RYZEN 5,56,AMD,RX,580,16,1024,0,1586334
+"Игровой компьютер (AMD Ryzen 5 3600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows",AMD,RYZEN 5,36,NVIDIA,RTX,3050,32,1024,14,577319
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro),",INTEL,I5,12,NVIDIA,GTX,1660,16,512,87,476607
+"(Intel Core i3-12100F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черн",INTEL,I3,12,NVIDIA,RTX,3060,16,512,33,571935
+"Мощный игровой (Intel Xeon E5-2680V4, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows ",INTEL,XEON,26,AMD,OTHER_AMD,0,16,512,315,388279
+"(Intel Core i5-14400, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics, DOS), 9S6-B20821-082, черный 1 янва",INTEL,I5,14,INTEL,INTEGRATED_INTEL,0,16,512,0,349395
+"Office (Intel Core i3-3220, RAM 8 ГБ, SSD 120 ГБ, NVIDIA GeForce GT 710 (2 Гб), Windows 10 Pro), чер",INTEL,I3,3,NVIDIA,OTHER_NVIDIA,0,8,120,105,127840
+"(Intel Core i3-12100, RAM 16 ГБ, SSD 240 ГБ, Intel UHD Graphics, Windows 10 Pro), черный 4.2 19 отзы",INTEL,I3,12,INTEL,INTEGRATED_INTEL,0,16,240,19,242966
+"Игровой компьютер (Intel Core i5-14400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), ",INTEL,I5,14,NVIDIA,RTX,5060,32,1000,28,837486
+"Chili Peppers (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Wind",INTEL,I7,2,NVIDIA,GTX,1660,16,512,233,278613
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V240 (Inte",INTEL,I3,0,NVIDIA,RTX,3060,16,128,2,384127
+"Игровой компьютер ПК (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Wind",AMD,RYZEN 5,36,NVIDIA,RTX,4060,16,1024,0,1435840
+"(AMD Ryzen 5 5500, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,55,NVIDIA,RTX,3060,32,1024,33,655053
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,26,NVIDIA,RTX,3050,16,256,33,457246
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,512,33,456755
+"(Intel Core i5-4570, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Без ОС), черный 1 января",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,8,240,0,120727
+"Игровой компьютер (Intel Core i7-2600, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I7,2,INTEL,INTEGRATED_INTEL,0,16,256,74,164786
+"(AMD Ryzen 5 3600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 ",AMD,RYZEN 5,36,NVIDIA,RTX,3070,16,1024,33,521746
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,26,NVIDIA,GTX,1660,16,512,33,428337
+"Игровой компьютер (Intel Core i5-14400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Win",INTEL,I5,14,NVIDIA,RTX,5060,32,1000,28,783610
+"(Intel Core i3-12100F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro)",INTEL,I3,12,NVIDIA,GTX,1660,16,1024,33,490197
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V156 (Inte",INTEL,I3,0,NVIDIA,RTX,3060,16,128,2,362840
+"(Intel Core i7-12700KF, RAM 32 ГБ, SSD 1500 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 10 Pro), чер",INTEL,I7,12,NVIDIA,RTX,5060,32,1500,64,993335
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,512,33,602781
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 4000, Windows 10 Pro), черный матовый ",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,512,2,157267
+"Офисный компьютер (Intel Core i5-2400, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,256,955,140677
+"Игровой компьютер  (Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Wi",INTEL,I5,12,NVIDIA,RTX,4060,32,1024,955,662342
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черны",INTEL,I5,12,NVIDIA,RTX,4060,32,512,33,734948
+"Офисный компьютер (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I7,2,INTEL,INTEGRATED_INTEL,0,16,512,955,179124
+"Офисный компьютер (Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,512,330,162721
+"Игровой компьютер (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 1",INTEL,XEON,26,AMD,RX,580,32,1024,747,357659
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,5060,16,1024,33,739682
+"Игровой компьютер RX 580 8GB RAM 64GB SSD 1024GB 2680v4 (Intel Xeon E5-2680V4, RAM 64 ГБ, SSD 1024 Г",INTEL,XEON,26,AMD,RX,580,64,1024,323,471144
+"Игровой компьютер I9 RTX 3060 12GB RAM 64GB SSD 1024GB 2680v4 (Intel Xeon E5-2680V4, RAM 64 ГБ, SSD ",INTEL,XEON,26,NVIDIA,RTX,3060,64,1024,323,598281
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1000,190,1228703
+"Игровой компьютер ITP Premium 1600 (Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX",INTEL,I7,12,NVIDIA,RTX,4070,32,1000,39,1231528
+"(Intel Core i5-8500, RAM 32 ГБ, SSD 256 ГБ, Intel UHD Graphics 630, Windows), черный матовый 1 январ",INTEL,I5,8,INTEL,INTEGRATED_INTEL,0,32,256,0,175133
+"(Intel Core i3-2120, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Без ОС), черный 5.0 7 отзывов 1 я",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,120,7,94057
+"Игровой компьютер 212 (AMD Ryzen 5 5600X, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), W",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,1000,8,718953
+"Для игр и учебы с монитором 24"" (Intel Xeon E3-1230, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 470 (4 Гб)",INTEL,XEON,0,AMD,RX,470,16,512,151,492927
+"Colorful (Intel Core i7-2600, RAM 8 ГБ, SSD 240 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10",INTEL,I7,2,NVIDIA,GTX,1660,8,240,25,280804
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V130 (Inte",INTEL,I3,0,NVIDIA,GTX,1060,8,256,2,229445
+"(Intel Core i5-3570, RAM 8 ГБ, SSD 100 ГБ, HDD 512 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 10 Pro",INTEL,I5,3,NVIDIA,OTHER_NVIDIA,0,8,100,162,154708
+"Игровой компьютер StormGames I7-10700 (Intel Core i7-10700, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce R",INTEL,I7,10,NVIDIA,RTX,4060,16,1000,0,502678
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V21 (Intel",INTEL,I3,12,AMD,RX,5600,16,256,2,408454
+"Pulse (Intel Core i5-14400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows), бе",INTEL,I5,14,NVIDIA,RTX,5060,32,960,402,1044088
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,256,5,611785
+"(Intel Core i5-3450, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2500, Windows), черный матовый 5.0 3 от",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,8,240,3,115766
+"Office (Intel Core i3-2100, RAM 4 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,4,120,105,80267
+"(AMD Ryzen 5 5500, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 P",AMD,RYZEN 5,55,NVIDIA,RTX,3070,32,512,33,572977
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,26,NVIDIA,GTX,1660,16,256,33,417727
+"(Intel Core i3-9100, RAM 16 ГБ, SSD 240 ГБ, Intel UHD Graphics 630, Windows 10 Home), черный 1 январ",INTEL,I3,9,INTEL,INTEGRATED_INTEL,0,16,240,0,182601
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4000, Windows 10 Home), черный матовый",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,480,0,136251
+"AZ-0121 (Intel Xeon E5-2680V4, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon RX 5700 XT (8 Гб), Windows 11 Pro)",INTEL,XEON,26,AMD,RX,5700,16,1024,250,441005
+"(AMD Ryzen 5 3400G, RAM 16 ГБ, SSD 240 ГБ, AMD Radeon Vega 11, Без ОС) 5.0 1 отзыв 1 января",AMD,RYZEN 5,34,AMD,OTHER_AMD,0,16,240,1,219873
+"Chili Peppers (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Window",AMD,RYZEN 5,56,NVIDIA,GTX,1660,16,512,233,500996
+"(Intel Core i5-13400, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 730, Без ОС), 2085 66, черный 1 янва",INTEL,I5,13,INTEL,INTEGRATED_INTEL,0,16,512,0,454446
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), че",AMD,RYZEN 5,26,NVIDIA,GTX,1660,16,1024,33,437399
+"GE521R1-Max (Intel Xeon E5-2660V3, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11",INTEL,XEON,26,NVIDIA,RTX,5060,32,512,0,466985
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V82 (Intel",INTEL,I3,12,NVIDIA,RTX,5060,8,256,2,561063
+"Мощный игровой (AMD Ryzen 5 2600, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), ",AMD,RYZEN 5,26,AMD,RX,580,32,512,315,432599
+"Lenovo m79 (AMD A10-7800, RAM 4 ГБ, AMD Radeon R7, Без ОС), черно-серый 4.6 635 отзывов 1 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,4,0,635,34184
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), че",INTEL,I5,12,NVIDIA,RTX,3060,32,512,33,678823
+"112R (AMD Ryzen 5 8400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), 2",AMD,RYZEN 5,84,NVIDIA,RTX,5070,32,1024,2,1760707
+"Игровой компьютер с монитором 24 (Intel Xeon E5-2640V2, RAM 32 ГБ, SSD 1000 ГБ, AMD Radeon RX 580 (8",INTEL,XEON,26,AMD,RX,580,32,1000,11,553359
+"Компьютер LuckyGame2 (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GT 730 (4 Гб), Win",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,16,256,2,219627
+"Офисный компьютер (Intel Core i3-2100, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,16,512,955,153911
+"Игровой компьютер (Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), ",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,753,845509
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V142 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,8,256,2,315198
+"Игровой компьютер RTX 3060 12GB RAM 64GB SSD 1024GB 2650v2 (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 102",INTEL,XEON,26,NVIDIA,RTX,3060,64,1024,323,482534
+"Игровой компьютер Paladin 2933 (AMD Ryzen 7 9700X, RAM 32 ГБ, SSD 1000 ГБ, HDD 4000 ГБ, NVIDIA GeFor",AMD,RYZEN 7,97,NVIDIA,RTX,5060,32,1000,1,1479386
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черный",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,256,5,569722
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 ",AMD,RYZEN 5,26,NVIDIA,RTX,3070,16,1024,33,504130
+"Офисный компьютер ITP Base 12100 512Гб (Intel Core i3-12100, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphi",INTEL,I3,12,INTEL,INTEGRATED_INTEL,0,16,512,7,347822
+"Mini (AMD Ryzen 5 5600G, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon RX Vega 7, Windows 11 Pro), 20214538, черн",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,8,256,2,460983
+"(AMD Ryzen 5 3600, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,36,NVIDIA,RTX,3050,32,512,33,551167
+"Игровой компьютер RTX 2060 SUPER 8GB RAM 64GB SSD 1024GB 2680v4 (Intel Xeon E5-2680V4, RAM 64 ГБ, SS",INTEL,XEON,26,NVIDIA,RTX,2060,64,1024,323,541227
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, HDD 1000 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows ",INTEL,I5,13,NVIDIA,RTX,4060,32,1000,190,899408
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V216 (Inte",INTEL,I3,0,NVIDIA,GTX,1060,16,128,2,247729
+"(Intel Core i3-12100F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro),",INTEL,I3,12,NVIDIA,RTX,2060,16,512,33,514821
+"Компьютер LuckyGame2 (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 120 ГБ, NVIDIA GeForce GT 730 (4 Гб), Win",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,16,120,2,209269
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V121 (Inte",INTEL,I3,0,AMD,RX,5700,8,128,2,270590
+"Игровой компьютер RTX 4060 8GB RAM 32GB SSD 512GB 2650v2 (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 Г",INTEL,XEON,26,NVIDIA,RTX,4060,32,512,323,480369
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 11 Pro), черны",INTEL,I5,10,NVIDIA,RTX,3050,16,256,33,492666
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windo",AMD,RYZEN 5,75,NVIDIA,RTX,5070,32,2000,28,1037575
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), ",INTEL,I5,12,NVIDIA,RTX,5060,32,1024,33,959428
+"Игровой компьютер (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Wi",INTEL,XEON,26,NVIDIA,RTX,3060,32,1024,801,462676
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,1024,33,598935
+"компьютер (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro), P",INTEL,XEON,26,AMD,RX,580,32,512,211,319809
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,256,5,513975
+"компьютер (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 Pro), ",INTEL,XEON,26,AMD,RX,580,32,1024,211,332123
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черный",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,256,5,611785
+"Компьютер для любых игр (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 Ti (8 ",INTEL,I5,12,NVIDIA,RTX,4060,16,512,12,860621
+"ПК с монитором (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 610 (2 Гб), Windows), ч",INTEL,I5,3,NVIDIA,OTHER_NVIDIA,0,16,512,36,286915
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,26,NVIDIA,RTX,2060,16,512,33,478089
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,56,NVIDIA,GTX,1660,16,256,23,481099
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V132 (Inte",INTEL,I3,0,NVIDIA,GTX,1060,16,128,2,226396
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V108 (Inte",INTEL,I3,0,AMD,RX,5600,16,128,2,251332
+"Chili Peppers (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 P",AMD,RYZEN 5,56,NVIDIA,RTX,2060,16,512,233,469052
+"Мощный игровой (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows 11 ",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,32,1024,315,493467
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce",AMD,RYZEN 5,75,NVIDIA,RTX,5060,16,256,23,978635
+"Игровой компьютер (Intel Core i5-14600KF, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб)",INTEL,I5,14,NVIDIA,RTX,5060,32,1000,28,977597
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,256,33,444744
+"(Intel Core i3-7100, RAM 8 ГБ, SSD 480 ГБ, Intel HD Graphics 630, Windows), черный 5.0 1 отзыв 1 янв",INTEL,I3,7,INTEL,INTEGRATED_INTEL,0,8,480,1,160586
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), Windows 11 Pro), черный ",AMD,RYZEN 5,75,NVIDIA,RTX,4070,16,256,5,943055
+"(Intel Core i5-1235U, RAM 8 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics G7 80EUs, Windows), 9S6-B0A621-25",INTEL,I5,1,INTEL,INTEGRATED_INTEL,0,8,512,0,310768
+"(AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 256 ГБ, AMD Radeon RX 6700 XT (12 Гб), Windows 11 Pro), черный 5.",AMD,RYZEN 5,75,AMD,RX,6700,32,256,4,880825
+"112R (AMD Ryzen 5 5600G, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon RX Vega 7, Windows 11 Pro), 20227444, черн",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,8,256,2,458332
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce",AMD,RYZEN 5,55,NVIDIA,GTX,1080,16,1024,23,522936
+"Nerpa BALTIC I532 SFF (Intel Core i5-12400, RAM 16 ГБ, SSD 51 ГБ, Intel UHD Graphics 730, Windows 10",INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,16,51,0,305609
+"Office (Intel Core i3-2100, RAM 8 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,512,105,99977
+"(Intel Core i7-4790, RAM 8 ГБ, SSD 480 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый 1",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,8,480,0,125915
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V105 (Inte",INTEL,I3,0,AMD,RX,5600,16,256,2,265525
+"(Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), красный 5",INTEL,I7,2,NVIDIA,OTHER_NVIDIA,0,16,512,87,204648
+"(Intel Core i5-11400F, RAM 16 ГБ, SSD 480 ГБ, NVIDIA GeForce RTX 3060 (8 Гб), Windows), черный 4.8 2",INTEL,I5,11,NVIDIA,RTX,3060,16,480,283,994978
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,56,NVIDIA,RTX,4060,16,1024,33,686987
+"ИГРОВОЙ КОМПЬЮТЕР пк системный блок (Intel Core i7-9700T, RAM 64 ГБ, SSD 1024 ГБ, HDD 500 ГБ, NVIDIA",INTEL,I7,9,NVIDIA,GTX,1050,64,1024,2,500181
+"Office (Intel Core i3-2100, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,16,120,105,98026
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,5070,32,256,33,1041059
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,23,506502
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,3060,32,512,33,671323
+"Игровой компьютер (Intel Core i9-9900K, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Wind",INTEL,I9,9,NVIDIA,RTX,5060,32,1000,57,671427
+"(Intel Core i5-13400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черн",INTEL,I5,13,NVIDIA,RTX,3060,16,256,5,653852
+"Офисный компьютер 8GEN (Intel Core i5-8500, RAM 8 ГБ, SSD 480 ГБ, Intel UHD Graphics 630, Windows 10",INTEL,I5,8,INTEL,INTEGRATED_INTEL,0,8,480,5,166934
+"(Intel Core i5-13400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows 11 Pro), черны",INTEL,I5,13,NVIDIA,RTX,3070,16,512,5,701166
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), ч",INTEL,I5,12,NVIDIA,RTX,5060,16,512,33,862493
+"Office (AMD A10-6800K, RAM 8 ГБ, SSD 120 ГБ, AMD Radeon R5, Windows 10 Pro), черный 4.8 105 отзывов ",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,120,105,81257
+"Игровой компьютер ПК (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 5080 (16 Г",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,2048,0,11051928
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черный",AMD,RYZEN 5,26,NVIDIA,RTX,3060,16,256,33,523123
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,480,0,135654
+"Игровой компьютер (Intel Core i7-9700, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 P",INTEL,I7,9,AMD,RX,580,32,512,747,383029
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForc",AMD,RYZEN 5,56,NVIDIA,RTX,4060,32,1024,0,890672
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 10 Pro), черн",INTEL,I5,12,NVIDIA,RTX,3060,16,512,19,633649
+"(Intel Core i7-4770, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,120,0,145977
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 10 Pro), зеле",INTEL,I5,12,NVIDIA,RTX,3060,16,512,87,586673
+"Игровой компьютер (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windo",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,16,1024,747,325911
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (Intel Core i5-12400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeF",INTEL,I5,12,NVIDIA,RTX,4070,16,1024,23,961662
+"Игровой компьютер  (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Window",AMD,RYZEN 5,56,NVIDIA,RTX,4060,32,1024,753,702177
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce",AMD,RYZEN 5,56,NVIDIA,GTX,1080,32,1024,23,677817
+"(AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,56,NVIDIA,RTX,4060,32,1024,33,753320
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V78 (Intel",INTEL,I3,12,NVIDIA,RTX,5060,16,512,2,611343
+"Pulse (Intel Core i5-14400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows), белый ",INTEL,I5,14,NVIDIA,RTX,5060,32,960,402,852120
+"Игровой компьютер 580 8GB (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), W",INTEL,XEON,26,AMD,RX,580,64,1024,323,362442
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 P",AMD,RYZEN 5,26,NVIDIA,RTX,3070,16,256,33,462452
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V81 (Intel",INTEL,I3,12,NVIDIA,RTX,5060,16,256,2,601292
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V222 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,16,512,2,357771
+"Игровой компьютер 2373 (Intel Core i5-13400F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб)",INTEL,I5,13,NVIDIA,RTX,5060,32,2000,10,1104803
+"(Intel Core i3-2120, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 1 января",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,240,0,101017
+"Мощный игровой (AMD Ryzen 5 2600, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro),",AMD,RYZEN 5,26,AMD,RX,580,32,1024,315,449020
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V220 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,8,1024,2,382099
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), ч",INTEL,I5,10,NVIDIA,RTX,3060,16,1024,33,599976
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V118 (Inte",INTEL,I3,0,AMD,RX,5700,8,256,2,284783
+"Игровой компьютер (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4070 Ti SUPER (16 Гб)",AMD,RYZEN 5,36,NVIDIA,RTX,4070,16,512,14,971420
+"Office (Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), че",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,16,512,105,155438
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V373 (Inte",INTEL,XEON,26,AMD,RX,5700,8,128,2,311136
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 4000, Windows 10 Home), черный матовый",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,120,0,122286
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V421 (Inte",INTEL,XEON,26,NVIDIA,RTX,5060,8,128,2,478403
+"Компьютер LuckyGame (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, HDD 512 ГБ, AMD Radeon RX 580 (8 Г",INTEL,XEON,26,AMD,RX,580,16,512,23,327006
+"(Intel Core i5-3470, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 2500, Без ОС), черный 5.0 1 отзыв 1 ян",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,240,1,97158
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V181 (Inte",INTEL,I3,0,AMD,RX,580,8,128,2,231475
+"Chili Peppers (Intel Core i7-2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows 10",INTEL,I7,2,NVIDIA,GTX,1650,16,512,233,246205
+"(AMD Ryzen 5 5600, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,56,NVIDIA,RTX,5060,32,512,33,762999
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (Intel Core i5-13400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeFo",INTEL,I5,13,NVIDIA,RTX,4070,16,256,23,886652
+"(Intel Core i5-3450, RAM 8 ГБ, SSD 128 ГБ, Intel HD Graphics 2500, Windows), черный матовый 5.0 4 от",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,8,128,4,102363
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Window",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1000,28,767861
+"(Intel Core i3-10100, RAM 16 ГБ, SSD 240 ГБ, Intel UHD Graphics, Windows 10 Pro), черный 4.2 19 отзы",INTEL,I3,10,INTEL,INTEGRATED_INTEL,0,16,240,19,201883
+"(Intel Core i3-10100, RAM 8 ГБ, SSD 240 ГБ, Intel UHD Graphics 630, Windows 10 Pro), черный матовый ",INTEL,I3,10,INTEL,INTEGRATED_INTEL,0,8,240,0,268583
+"(Intel Core i3-12100F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro)",INTEL,I3,12,NVIDIA,RTX,2060,16,1024,33,547715
+"Компьютер SuperOffice (Intel Core i3-10100F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1050 Ti (4 Гб",INTEL,I3,10,NVIDIA,GTX,1050,16,256,0,318997
+"Office (Intel Core i3-3220, RAM 8 ГБ, SSD 120 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 Pro), чер",INTEL,I3,3,NVIDIA,OTHER_NVIDIA,0,8,120,105,132248
+"Игровой компьютер ПК (Intel Xeon E5-2650, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Wi",INTEL,XEON,26,NVIDIA,RTX,3060,32,512,0,690981
+"Титан D3S (Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows",INTEL,I7,12,NVIDIA,RTX,5060,32,1000,104,1292512
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,56,NVIDIA,RTX,5060,16,512,33,665279
+"Офисный компьютер (Intel Core i3-3220, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro)",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,8,256,753,106567
+"ПК с монитором (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 550 (2 Гб), Windows), черны",INTEL,I5,3,AMD,RX,550,16,512,36,358920
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V67 (Intel",INTEL,I3,12,NVIDIA,RTX,3060,8,512,2,489554
+"(Intel Core i5-7400, RAM 16 ГБ, SSD 240 ГБ, Intel UHD Graphics 630, Windows 10 Pro), черный 4.2 19 о",INTEL,I5,7,INTEL,INTEGRATED_INTEL,0,16,240,19,169399
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro), чер",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,512,87,485329
+"Игровой компьютер ПК (AMD Ryzen 5 2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб),",AMD,RYZEN 5,26,NVIDIA,RTX,2060,16,512,0,4862108
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V138 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,16,512,2,336481
+"Игровой компьютер Paladin 1881 (AMD Ryzen 7 7700X, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (",AMD,RYZEN 7,77,NVIDIA,RTX,5070,32,1000,3,1490289
+"Office (Intel Core i5-2400, RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 10 Pro), че",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,8,512,105,155074
+"Мощный игровой (AMD Ryzen 5 5500, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows 11 ",AMD,RYZEN 5,55,AMD,OTHER_AMD,0,32,1024,315,521392
+"Офисный компьютер 8GEN (Intel Core i3-8100, RAM 16 ГБ, SSD 240 ГБ, Intel UHD Graphics 630, Windows 1",INTEL,I3,8,INTEL,INTEGRATED_INTEL,0,16,240,5,192177
+"Альфа V2 (AMD Ryzen 7 7700, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 11 P",AMD,RYZEN 7,77,NVIDIA,RTX,5070,32,1000,104,1668390
+"Мощный игровой (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro),",AMD,RYZEN 5,56,AMD,RX,580,32,1024,315,501539
+"(Intel Core i7-11700F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (6 Гб), Без ОС), 9S6-B20821-05",INTEL,I7,11,NVIDIA,RTX,3050,16,512,0,543799
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V73 (Intel",INTEL,I3,12,NVIDIA,RTX,3060,8,128,2,465228
+"(Intel Xeon E3-1230, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1050 (2 Гб), Windows 10 Pro), черный ",INTEL,XEON,0,NVIDIA,GTX,1050,16,512,5,230570
+"Игровой компьютер (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Window",AMD,RYZEN 5,56,NVIDIA,RTX,3060,32,1024,747,690310
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,56,NVIDIA,RTX,4060,16,512,33,656378
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V420 (Inte",INTEL,XEON,26,NVIDIA,RTX,5060,16,128,2,489554
+"(Intel Core i3-12100F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro),",INTEL,I3,12,NVIDIA,GTX,1660,16,256,33,448909
+"(AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,36,NVIDIA,RTX,3050,16,512,33,485386
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 960 ГБ, AMD Radeon RX 6600 XT (8 Гб), Windows 10 Pro), черный ",INTEL,I5,12,AMD,RX,6600,32,960,87,770667
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V111 (Inte",INTEL,I3,0,AMD,RX,5700,16,1024,2,341553
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V349 (Inte",INTEL,XEON,26,AMD,RX,580,8,128,2,250774
+"X-COMputers *Business* (Intel Core i7-12700, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 770, DOS), FL",INTEL,I7,12,INTEL,INTEGRATED_INTEL,0,16,512,12,397822
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windo",AMD,RYZEN 5,56,NVIDIA,RTX,4060,16,512,0,2151729
+"(AMD Ryzen 5 8400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черн",AMD,RYZEN 5,84,NVIDIA,RTX,3060,16,1024,5,785311
+"Игровой компьютер ПК (Intel Core i5-10400F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), W",INTEL,I5,10,NVIDIA,RTX,4060,32,512,0,2096438
+"(AMD Ryzen 5 5500, RAM 32 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,55,NVIDIA,GTX,1660,32,256,33,510660
+"Office (Intel Core i5-2400, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,120,105,116580
+"(Intel Core i7-4770, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4600, Windows), черный матовый 1 январ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,480,0,163234
+"Компьютер  (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows 10 P",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,32,1024,753,264997
+"Офисный компьютер (Intel Core i5-2400, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,256,955,130999
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 5050 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,75,NVIDIA,RTX,5050,16,256,5,743243
+"C2 (AMD Ryzen 5 5600G, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon RX Vega 7, Windows 11 Pro), 20226966, черный",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,8,256,2,469996
+"Office (Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,512,105,133273
+"компьютер (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Window",INTEL,XEON,26,NVIDIA,RTX,2060,32,512,211,413698
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (Intel Core i5-13400F, RAM 32 ГБ, SSD 256 ГБ, NVIDIA GeFo",INTEL,I5,13,NVIDIA,RTX,4070,32,256,23,1005686
+"Офисный компьютер 8GEN (Intel Core i5-8500, RAM 16 ГБ, SSD 240 ГБ, Intel UHD Graphics 630, Windows 1",INTEL,I5,8,INTEL,INTEGRATED_INTEL,0,16,240,5,205743
+"Игровой компьютер (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб)",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,747,453436
+"Офисный компьютер 8GEN (Intel Core i7-8700, RAM 4 ГБ, SSD 480 ГБ, Intel UHD Graphics 630, Windows 10",INTEL,I7,8,INTEL,INTEGRATED_INTEL,0,4,480,5,211038
+"Игровой компьютер (Intel Core i3-3220, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro)",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,8,256,747,116635
+"(Intel Core i3-12100F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro)",INTEL,I3,12,NVIDIA,RTX,2060,32,1024,33,613023
+"Chili Peppers (Intel Core i3-10100F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows ",INTEL,I3,10,NVIDIA,GTX,1650,16,512,233,419052
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (Intel Core i5-13400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeF",INTEL,I5,13,NVIDIA,RTX,3060,16,1024,23,687989
+"Neo (AMD Ryzen 3 3200G, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon RX Vega 8, Windows 11 Pro), 20217401, черны",AMD,RYZEN 3,32,AMD,OTHER_AMD,0,8,256,0,362371
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,512,23,564207
+"Игровой компьютер 2371 (Intel Core i5-13400F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб)",INTEL,I5,13,NVIDIA,RTX,5060,32,2000,3,1071192
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 P",AMD,RYZEN 5,26,NVIDIA,RTX,3070,16,512,33,472871
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,56,NVIDIA,RTX,2060,16,512,5,587596
+"Офисный компьютер 8GEN (Intel Core i5-8500, RAM 4 ГБ, SSD 480 ГБ, Intel UHD Graphics 630, Windows 10",INTEL,I5,8,INTEL,INTEGRATED_INTEL,0,4,480,5,203580
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 10 Pro), бел",AMD,RYZEN 5,55,NVIDIA,GTX,1660,16,512,87,481308
+"(Intel Core i5-10400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 10 Pro), че",INTEL,I5,10,NVIDIA,RTX,3060,32,960,87,760681
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), че",INTEL,I5,12,NVIDIA,RTX,3060,16,256,5,622303
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V49 (Intel",INTEL,I3,12,NVIDIA,GTX,1060,8,128,2,328371
+"Игровой компьютер GTX 1660 SUPER 6GB RAM 32GB SSD 512GB 2680v4 (Intel Xeon E5-2680V4, RAM 32 ГБ, SSD",INTEL,XEON,26,NVIDIA,GTX,1660,32,512,323,408074
+"Игровой компьютер RX 570 4GB RAM 32GB SSD 512GB 2650v2 (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ,",INTEL,XEON,26,AMD,RX,570,32,512,323,291219
+"Office (Intel Core i3-2100, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,16,240,105,112855
+"(AMD Ryzen 5 3600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Windows 11 Pro), че",AMD,RYZEN 5,36,NVIDIA,GTX,1660,32,1024,33,535581
+"Офисный компьютер (Intel Core i5-2400, RAM 16 ГБ, SSD 1024 ГБ, Intel HD Graphics 2000, Windows 10 Pr",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,1024,753,186054
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V37 (Intel",INTEL,I3,12,AMD,RX,5700,8,128,2,384127
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,75,NVIDIA,RTX,5060,16,256,5,790562
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V210 (Inte",INTEL,I3,0,NVIDIA,GTX,1060,16,512,2,271607
+"Office (Intel Core i5-2400, RAM 4 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,4,120,105,88934
+"полностью новый компьютер с Windows 7 и 10 одновременно (AMD A8-8650, RAM 8 ГБ, SSD 120 ГБ, HDD 500 ",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,120,5,90476
+"Lenovo m79 (AMD A10-6700, RAM 4 ГБ, AMD Radeon R7, Без ОС), черно-серый 4.6 635 отзывов 1 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,4,0,635,37070
+"Игровой компьютер RTX 2060 SUPER 8GB RAM 32GB SSD 512GB 2650v2 (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD",INTEL,XEON,26,NVIDIA,RTX,2060,32,512,323,390313
+"Компьютер LuckyGame (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 500 ГБ, HDD 512 ГБ, NVIDIA GeForce GTX 105",INTEL,XEON,26,NVIDIA,GTX,1050,16,500,23,313749
+"Office (Intel Core i5-2400, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,8,240,105,103403
+"(Intel Core i7-3770, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 4000, Windows 10 Pro), черный матовый ",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,16,120,0,123159
+"(Intel Core i5-3550, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 2500, Без ОС), черный 1 января",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,120,0,116039
+"Игровой компьютер RTX 4060 8GB RAM 64GB SSD 1024GB 2650v2 (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024",INTEL,XEON,26,NVIDIA,RTX,4060,64,1024,323,521672
+"Игровой компьютер (Intel Xeon E5-2650V3, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Window",INTEL,XEON,26,NVIDIA,OTHER_NVIDIA,0,16,512,747,287642
+"игровой компьютер CORETECH HYPER MINI (Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce ",INTEL,I5,12,NVIDIA,RTX,5060,32,1024,24,889275
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,256,23,594505
+"310SC (Intel Core i7-12700, RAM 16 ГБ, SSD 1024 ГБ, Intel UHD Graphics 770, Windows 11 Pro), 1969074",INTEL,I7,12,INTEL,INTEGRATED_INTEL,0,16,1024,9,542482
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), чер",INTEL,I5,10,NVIDIA,RTX,3060,16,1024,33,599976
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,4060,16,1024,33,699244
+"(Intel Core i3-12100F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 Pro), черны",INTEL,I3,12,NVIDIA,RTX,2060,32,960,87,651316
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 10 Pro), бел",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,87,532757
+"Black (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro)",INTEL,I5,12,NVIDIA,RTX,5070,16,512,1,1332904
+"Chili Peppers (AMD Ryzen 5 5500, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows 10 P",AMD,RYZEN 5,55,NVIDIA,RTX,2060,32,960,233,642829
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V144 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,16,128,2,312153
+"Игровой компьютер (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Wi",AMD,RYZEN 5,36,NVIDIA,GTX,1660,16,512,747,396602
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 10 Pro), черн",INTEL,I5,10,NVIDIA,RTX,3060,16,512,87,549328
+"Мощный игровой (AMD Ryzen 5 5500, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows 11 ",AMD,RYZEN 5,55,NVIDIA,RTX,3070,32,512,315,570123
+"112R (Intel Core i5-12400, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 20227593,",INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,16,512,8,613159
+"Игровой компьютер (Intel Core i5-3470, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,512,747,176841
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1060 (6 Гб), Windows 11 Pro), черны",INTEL,I5,12,NVIDIA,GTX,1060,16,256,5,481147
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V153 (Inte",INTEL,I3,0,NVIDIA,RTX,3060,16,256,2,377031
+"Игровой компьютер ПК (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5080 (16 Г",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,1024,0,10908469
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,120,0,125180
+"Альфа V1 (AMD Ryzen 7 7700, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro)",AMD,RYZEN 7,77,NVIDIA,RTX,5070,32,1000,104,1389653
+"Office (Intel Core i5-2400, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,8,120,105,97554
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,56,NVIDIA,RTX,3070,16,512,23,623719
+"(Intel Core i3-2100, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Без ОС), черный 5.0 3 отзыва 1 я",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,16,120,3,82853
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (Intel Core i5-13400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeFo",INTEL,I5,13,NVIDIA,RTX,4070,16,256,23,940770
+"компьютер (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), Window",INTEL,XEON,26,NVIDIA,GTX,1660,32,512,211,365575
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V175 (Inte",INTEL,I3,0,AMD,RX,580,8,512,2,255385
+"Игровой компьютер (Intel Core i3-3220, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Windows ",INTEL,I3,3,NVIDIA,OTHER_NVIDIA,0,16,512,747,212135
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,256,23,493868
+"Офисный компьютер 8GEN (Intel Core i3-8100, RAM 8 ГБ, SSD 240 ГБ, Intel UHD Graphics 630, Windows 10",INTEL,I3,8,INTEL,INTEGRATED_INTEL,0,8,240,5,184640
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,55,NVIDIA,RTX,4060,16,512,33,624896
+"(Intel Core i3-2100, RAM 8 ГБ, SSD 480 ГБ, Intel HD Graphics 2000, Windows), черный матовый 5.0 4 от",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,480,4,119349
+"(AMD Ryzen 5 5500, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1080 Ti (11 Гб), Windows 11 Pro), черн",AMD,RYZEN 5,55,NVIDIA,GTX,1080,32,1024,5,695913
+Компьютер Planio 310H6SEV Mini (2109280) (i5 12400/16Gb/512GbSSD/UHD730/FreeDOS) (Intel Core i5-1240,INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,16,0,0,387351
+"Игровой компьютер (Intel Core i5-14400F, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб), ",INTEL,I5,14,NVIDIA,RTX,5060,16,1000,17,684328
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,256,23,551225
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 730 (4 Гб), Без ОС) 1 января",INTEL,I5,10,NVIDIA,OTHER_NVIDIA,0,16,512,0,391104
+"C2 (AMD Ryzen 3 3200G, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX Vega 8, Windows 11 Pro), 20226963, черны",AMD,RYZEN 3,32,AMD,OTHER_AMD,0,16,512,2,488876
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,120,0,121689
+"Квант D3S (Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows",INTEL,I5,13,NVIDIA,RTX,5060,32,1000,104,1029544
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,256,2,155181
+"(Intel Core i5-4590, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 4600, Windows), черный матовый 1 января",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,8,256,0,121338
+"Мощный игровой (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows 11 ",AMD,RYZEN 5,56,NVIDIA,RTX,3070,32,512,315,586878
+"Игровой компьютер ПК (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 5080 (16 Г",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,2048,0,11044718
+"(Intel Core i7-6700, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics, Windows 10 Pro), черный 4.2 19 отзыво",INTEL,I7,6,INTEL,INTEGRATED_INTEL,0,16,240,19,195918
+"(Intel Core i7-3770, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 4000, Windows 10 Home), черный матовый ",INTEL,I7,3,INTEL,INTEGRATED_INTEL,0,8,240,0,114661
+"Игровой компьютер (Intel Core i5-13600KF, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб),",INTEL,I5,13,NVIDIA,RTX,4060,32,1024,74,957159
+"Игровой компьютер 1529 (Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 3050 (8 Гб)",INTEL,I5,13,NVIDIA,RTX,3050,32,1000,4,746191
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro), чер",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,5,545532
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (Intel Core i5-12400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeFo",INTEL,I5,12,NVIDIA,RTX,3060,16,256,23,605325
+"МОЩНЫЙ КОМПЬЮТЕР пк системный блок (Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics, Wi",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,512,7,183366
+"Игровой компьютер ПК системный блок Роскомп (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,1024,0,10834836
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,55,NVIDIA,RTX,3070,16,256,23,567447
+"(Intel Core i5-4590, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 4600, Windows 10 Home), черный матовый ",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,8,120,1,115436
+"Office (Intel Core i3-2100, RAM 8 ГБ, SSD 120 ГБ, NVIDIA GeForce GT 710 (2 Гб), Windows 10 Pro), чер",INTEL,I3,2,NVIDIA,OTHER_NVIDIA,0,8,120,105,127327
+"полностью новый компьютер с Windows 7 и 10 одновременно (AMD A10-7800, RAM 16 ГБ, SSD 512 ГБ, HDD 50",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,16,512,5,132250
+"Office (Intel Core i5-2400, RAM 4 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,4,240,105,94403
+"Chili Peppers (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Window",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,233,528843
+"(AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), черн",AMD,RYZEN 7,78,NVIDIA,RTX,5070,32,1024,115,1555643
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5050 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,75,NVIDIA,RTX,5050,16,512,5,774793
+"Мощный игровой (AMD Ryzen 5 5500, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows 11 P",AMD,RYZEN 5,55,AMD,OTHER_AMD,0,32,512,315,506470
+"(Intel Core i5-3340, RAM 8 ГБ, SSD 128 ГБ, Intel HD Graphics 2500, Windows), черный матовый 1 января",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,8,128,0,102353
+"(Intel Core i3-3210, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2500, Windows 10 Home), черный 1 января",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,8,240,0,101614
+"Игровой компьютер GTX 1660 SUPER 6GB (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce G",INTEL,XEON,26,NVIDIA,GTX,1660,64,1024,323,391169
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce",AMD,RYZEN 5,75,NVIDIA,RTX,3070,16,256,23,718942
+"(Intel Core i5-3330, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 2500, Windows), черный матовый 5.0 3 о",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,120,3,123597
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V180 (Inte",INTEL,I3,0,AMD,RX,580,16,128,2,242649
+"Игровой компьютер 1541 (Intel Core i7-13700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 3060 (12 Гб",INTEL,I7,13,NVIDIA,RTX,3060,32,1000,4,937711
+"Мощный игровой (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon Pro Vega 56 (8 Гб), Windows 11 P",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,32,512,315,522175
+"(AMD Ryzen 5 2600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 ",AMD,RYZEN 5,26,NVIDIA,RTX,3070,32,1024,33,569861
+"(AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,56,NVIDIA,RTX,3060,16,1024,5,706442
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro), че",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,1024,33,541819
+"J9 (Intel Core i5-13400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows), черный 4.",INTEL,I5,13,NVIDIA,RTX,4060,32,960,402,827498
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3070 (8 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,75,NVIDIA,RTX,3070,16,256,5,716952
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черн",INTEL,I5,12,NVIDIA,RTX,4060,32,1024,33,765559
+"(Intel Core i5-3450, RAM 16 ГБ, SSD 128 ГБ, Intel HD Graphics 2500, Windows 10 Pro), черный матовый ",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,16,128,0,111907
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,26,NVIDIA,RTX,3060,16,256,33,523123
+"Office (Intel Core i3-3220, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,16,120,105,99424
+"Lenovo m79 (AMD A10-6700, RAM 8 ГБ, AMD Radeon R7, Без ОС), черно-серый 4.6 635 отзывов 1 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,0,635,44885
+"Мультимедийный компьютер ITP Premium 1228 (AMD Ryzen 3 1200, RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GT",AMD,RYZEN 3,12,NVIDIA,OTHER_NVIDIA,0,8,512,0,298822
+"Игровой компьютер Paladin 2903 (AMD Ryzen 7 8700F, RAM 32 ГБ, SSD 1000 ГБ, HDD 2000 ГБ, NVIDIA GeFor",AMD,RYZEN 7,87,NVIDIA,RTX,5060,32,1000,1,1343842
+"Игровой компьютер RTX 5060 8GB RAM 64GB SSD 1024GB 2650v2 (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024",INTEL,XEON,26,NVIDIA,RTX,5060,64,1024,323,543401
+"(Intel Core i5-2400, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный матовый 1",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,8,120,0,96570
+"(AMD A10-6790K, RAM 4 ГБ, AMD Radeon 530 (4 Гб), ) 5 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,4,0,0,33232
+"Триумф D4 (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pr",AMD,RYZEN 5,75,NVIDIA,RTX,5070,32,1000,104,1321975
+"Триумф D3S (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 1",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1000,104,1198592
+"Игровой компьютер (Intel Core i7-3770, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1660 SUPER (6 Гб), ",INTEL,I7,3,NVIDIA,GTX,1660,16,512,747,339160
+"Игровой компьютер RTX 5060 8GB RAM 32GB SSD 512GB 2650v2 (Intel Xeon E5-2650V2, RAM 32 ГБ, SSD 512 Г",INTEL,XEON,26,NVIDIA,RTX,5060,32,512,323,499825
+"(Intel Core i9-12900F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX 4070 Ti SUPER (16 Гб), Windows 10 ",INTEL,I9,12,NVIDIA,RTX,4070,32,2000,64,1657430
+"Форс D4 (Intel Core i5-14400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 P",INTEL,I5,14,NVIDIA,RTX,5070,32,1000,104,1172775
+"Компьютер Lenovo M79 (AMD PRO A8-8600B, RAM 16 ГБ, SSD 240 ГБ, AMD Radeon R7, Windows 10 Pro), черны",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,16,240,7,151535
+"Игровой компьютер RTX 2060 SUPER 8GB RAM 64GB SSD 1024GB 2650v2 (Intel Xeon E5-2650V2, RAM 64 ГБ, SS",INTEL,XEON,26,NVIDIA,RTX,2060,64,1024,323,433211
+"Игровой компьютер RX 570 4GB RAM 64GB SSD 1024GB 2650v2 (Intel Xeon E5-2650V2, RAM 64 ГБ, SSD 1024 Г",INTEL,XEON,26,AMD,RX,570,64,1024,323,341820
+"Игровой компьютер ПК (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 4096 ГБ, NVIDIA GeForce RTX 5080 (16 Г",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,4096,0,11582600
+"Lenovo m79 (AMD A10-7800, RAM 8 ГБ, AMD Radeon R7, Без ОС), черно-серый 4.6 635 отзывов 1 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,0,635,44587
+"Игровой компьютер GTX 1660 SUPER 6GB RAM 64GB SSD 1024GB 2680v4 (Intel Xeon E5-2680V4, RAM 64 ГБ, SS",INTEL,XEON,26,NVIDIA,GTX,1660,64,1024,323,506113
+"Chili Peppers (Intel Core i5-12400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows ",INTEL,I5,12,NVIDIA,RTX,4060,32,960,233,880532
+"Игровой компьютер ПК (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5080 (16 Г",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,1024,0,10827626
+"(AMD PRO A8-8650B, RAM 8 ГБ, SSD 240 ГБ, AMD Radeon R7, Windows), черный 2 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,240,0,49068
+"(Intel Core i5-3570, RAM 8 ГБ, SSD 480 ГБ, Intel HD Graphics 2500, Без ОС), черный 1 января",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,8,480,0,132363
+"Игровой компьютер (Intel Xeon E5-2650V2, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб)",INTEL,XEON,26,NVIDIA,RTX,2060,16,512,747,408955
+"Титан D4 (Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 ",INTEL,I7,12,NVIDIA,RTX,5070,32,1000,104,1400363
+"Игровой компьютер (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Wi",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,512,747,461441
+"(Intel Core i7-4790, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый 1",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,8,240,0,138978
+"EasyOffice (AMD PRO A10-7800B, RAM 8 ГБ, SSD 120 ГБ, AMD Radeon, Windows 10 Pro), черный 3 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,120,0,85444
+"Игровой компьютер (Intel Core i7-7700, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 ",INTEL,I7,7,AMD,RX,580,32,1024,747,357659
+"Игровой компьютер (Intel Core i5-2400, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,16,512,747,171902
+"Игровой компьютер (Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Win",INTEL,I5,12,NVIDIA,RTX,5060,32,1024,747,820861
+"(Intel Core i5-12400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), чер",INTEL,I5,12,NVIDIA,RTX,3060,16,1024,5,716952
+"Игровой компьютер (AMD Ryzen 7 9800X3D, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Win",AMD,RYZEN 7,98,NVIDIA,RTX,5070,32,1024,753,1703002
+"Игровой компьютер ПК системный блок Роскомп (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 4096 ГБ, NVIDIA",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,4096,0,11508966
+"(AMD A10-7800, RAM 8 ГБ, SSD 240 ГБ, AMD Radeon R7, Windows), черный 2 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,240,0,50703
+"Игровой компьютер (Intel Core i3-2100, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,16,256,74,139476
+"(AMD Ryzen 5 2600, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), черный 4.",AMD,RYZEN 5,26,NVIDIA,RTX,4060,16,256,33,580245
+"Игровой компьютер ПК (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 4096 ГБ, NVIDIA GeForce RTX 5080 (16 Г",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,4096,0,11501757
+"(AMD PRO A8-8650B, RAM 8 ГБ, SSD 120 ГБ, AMD Radeon R7, Windows), черный 2 января",AMD,OTHER_AMD,0,AMD,OTHER_AMD,0,8,120,0,46320
+"(Intel Core i3-2100, RAM 8 ГБ, SSD 120 ГБ, Intel HD Graphics 2000, Windows 10 Home), черный матовый ",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,120,0,94823
+"(AMD Ryzen 7 9700X, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 11 Pro), бел",AMD,RYZEN 7,97,NVIDIA,RTX,5070,32,1000,1,1568496
+"Игровой компьютер Paladin 1861 (AMD Ryzen 5 7600X, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (",AMD,RYZEN 5,76,NVIDIA,RTX,5070,32,1000,3,1425359
+"Игровой компьютер ПК (Intel Core Ultra 9 285K, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 5080 (16 Г",INTEL,ULTRA CORE,2,NVIDIA,RTX,5080,64,2048,0,11125561
+"Mini (Intel Core i5-12400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 11 Pro), 20",INTEL,I5,12,NVIDIA,OTHER_NVIDIA,0,16,512,6,806093
+"(Intel Core i7-14700KF, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), бел",INTEL,I7,14,NVIDIA,RTX,5070,16,500,0,1154582
+"Квант V2 (Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), Windows 1",INTEL,I5,13,NVIDIA,RTX,4060,32,1000,104,1621257
+"Strike 720 (AMD Ryzen 7 5800X, RAM 16 ГБ, SSD 500 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), Str",AMD,RYZEN 7,58,AMD,RX,580,16,500,0,610535
+"(Intel Core i9-12900KF, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), бе",INTEL,I9,12,NVIDIA,RTX,5070,32,1000,0,1230356
+"(Intel Core i7-14700KF, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 11 Pro), ",INTEL,I7,14,NVIDIA,RTX,5070,16,500,0,1416698
+"Форс D7 (Intel Core i5-12400F, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro",INTEL,I5,12,NVIDIA,RTX,4060,16,500,104,693217
+"Квант V1 (Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 P",INTEL,I5,13,NVIDIA,RTX,4060,32,1000,104,3644213
+"(Intel Core i3-2100, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный матовый 1",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,256,0,102727
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,480,0,131104
+"Игровой компьютер ПК системный блок Роскомп (Intel Xeon E5-2650, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeFor",INTEL,XEON,26,NVIDIA,RTX,3060,16,512,0,3190758
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 3600, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,36,NVIDIA,RTX,3050,8,256,0,3190758
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V31 (Intel",INTEL,I3,12,AMD,RX,5700,8,512,2,408454
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V234 (Inte",INTEL,I3,0,NVIDIA,RTX,3060,16,512,2,408454
+"Компьютер Lenovo M79 (Intel Core i3-2100, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 ",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,16,240,0,135299
+"Игровой компьютер ZenPlay Pro Ryzen 4600G (AMD Ryzen 5 4600G, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX V",AMD,RYZEN 5,46,AMD,OTHER_AMD,0,16,512,0,486198
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4070 (12 ГБ), Win",AMD,RYZEN 5,56,NVIDIA,RTX,4070,32,1024,0,1175280
+"МОЩНЫЙ КОМПЬЮТЕР пк системный блок (Intel Core i3-2100, RAM 8 ГБ, SSD 512 ГБ, HDD 1000 ГБ, Intel HD ",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,512,1,194199
+"(Intel Core i9-14900KF, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), бе",INTEL,I9,14,NVIDIA,RTX,5070,16,1000,0,1260799
+"Триумф V2 (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), Windows 11 ",AMD,RYZEN 5,75,NVIDIA,RTX,4060,32,1000,104,1519968
+"Игровой компьютер (AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4080 SUPER (16 Гб",AMD,RYZEN 7,78,NVIDIA,RTX,4080,32,1024,747,1839146
+"Игровой компьютер ПК (Intel Core i5-10400F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), ",INTEL,I5,10,NVIDIA,RTX,4060,16,1024,1,3768134
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V61 (Intel",INTEL,I3,12,NVIDIA,RTX,2060,8,128,2,414534
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForc",AMD,RYZEN 5,56,NVIDIA,RTX,4060,32,1024,0,4826994
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,240,0,127248
+"(Intel Core i5-4440, RAM 16 ГБ, SSD 480 ГБ, Intel HD Graphics 4600, Без ОС), черный 5.0 3 отзыва 1 я",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,16,480,3,147577
+"Игровой компьютер Paladin 2113 (Intel Core i5-13400F, RAM 16 ГБ, SSD 1512 ГБ, NVIDIA GeForce RTX 506",INTEL,I5,13,NVIDIA,RTX,5060,16,1512,4,811475
+"Альфа D2 (AMD Ryzen 7 7800X3D, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pr",AMD,RYZEN 7,78,NVIDIA,RTX,5060,32,1000,104,1238734
+"R3 (Intel Core i5-12400, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 20210056, ч",INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,16,512,3,611151
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V55 (Intel",INTEL,I3,12,NVIDIA,RTX,2060,8,512,2,438868
+"(Intel Core i7-14700KF, RAM 16 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 11 Pro),",INTEL,I7,14,NVIDIA,RTX,5070,16,1000,0,1443831
+"(AMD Ryzen 9 5900X, RAM 16 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 11 Pro), белы",AMD,RYZEN 9,59,NVIDIA,RTX,5070,16,500,0,1376315
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows",AMD,RYZEN 5,75,NVIDIA,RTX,4060,16,512,74,856249
+"(Intel Core i7-4790, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый В",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,8,240,0,117509
+"(Intel Core i7-4790, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый В",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,8,240,0,114064
+"(Intel Core i3-4170, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 4400, Без ОС) 1 января",INTEL,I3,4,INTEL,INTEGRATED_INTEL,0,16,256,0,127953
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), черный",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,512,5,601270
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 3600, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,36,NVIDIA,RTX,2060,8,256,0,3190758
+"(Intel Core i5-10400, RAM 8 ГБ, SSD 240 ГБ, Intel UHD Graphics 630, Windows 10 Home), черный матовый",INTEL,I5,10,INTEL,INTEGRATED_INTEL,0,8,240,0,306501
+"(Intel Core i5-4440, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Без ОС), черный 1 января",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,8,240,0,119074
+"Игровой компьютер ПК (AMD Ryzen 5 3600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windo",AMD,RYZEN 5,36,NVIDIA,RTX,3050,16,512,0,2666688
+"Игровой компьютер ПК (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Win",AMD,RYZEN 5,75,NVIDIA,RTX,4060,32,1024,1,4632510
+"Игровой компьютер ПК (AMD Ryzen 5 2600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Wind",AMD,RYZEN 5,26,NVIDIA,RTX,4060,32,1024,0,3768134
+"Игровой компьютер 2924 (Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, HDD 2000 ГБ, NVIDIA GeForce RT",INTEL,I7,12,NVIDIA,RTX,5060,32,1000,0,1399532
+"Игровой компьютер ПК (Intel Xeon E5-2650, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Win",INTEL,XEON,26,NVIDIA,RTX,4060,32,512,0,2752687
+"(AMD Ryzen 5 3600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 ",AMD,RYZEN 5,36,NVIDIA,RTX,3070,32,1024,33,587508
+"R3 (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 202298969, ",AMD,RYZEN 5,56,AMD,RX,580,32,1024,3,947388
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V217 (Inte",INTEL,I3,0,NVIDIA,GTX,1060,8,128,2,236554
+"(Intel Core i5-4460, RAM 16 ГБ, SSD 256 ГБ, Intel HD Graphics 4600, Без ОС), черный 1 января",INTEL,I5,4,INTEL,INTEGRATED_INTEL,0,16,256,0,135833
+"Игровой компьютер (Intel Core i7-13700F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4080 (16 Гб), Win",INTEL,I7,13,NVIDIA,RTX,4080,16,512,74,1578603
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 2600, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,26,NVIDIA,RTX,3050,8,256,0,3190758
+"F3 (AMD Ryzen 7 5700, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 20231549, че",AMD,RYZEN 7,57,AMD,RX,580,16,512,2,809316
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 5600, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,56,NVIDIA,RTX,3050,8,256,0,3190758
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 128 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,128,0,147907
+"Игровой компьютер ПК (Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), ",INTEL,I5,13,NVIDIA,RTX,4060,32,1024,0,10685834
+"Компьютер для работы и дома ""Hi OFFICE V3"" | WIFI (AMD Ryzen 5 2400GE, RAM 8 ГБ, SSD 256 ГБ, AMD Rad",AMD,RYZEN 5,24,AMD,OTHER_AMD,0,8,256,0,163545
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics 4600, Windows 10 Pro), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,512,0,161988
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V115 (Inte",INTEL,I3,0,AMD,RX,5700,8,512,2,294923
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V229 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,8,128,2,322292
+"Игровой компьютер ПК (AMD Ryzen 5 2600, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10",AMD,RYZEN 5,26,AMD,RX,580,16,1024,0,1951555
+"(Intel Core i7-4790, RAM 8 ГБ, SSD 512 ГБ, Intel HD Graphics 4600, Windows 10 Home), черный матовый ",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,8,512,0,154355
+"Chili Peppers (Intel Core i5-12400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windo",INTEL,I5,12,NVIDIA,RTX,3060,32,960,233,799141
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 2600, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,26,NVIDIA,RTX,2060,8,256,0,3190758
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V228 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,16,128,2,333441
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб)",AMD,RYZEN 5,56,NVIDIA,RTX,2060,16,1024,0,951662
+"(Intel Core i7-14700KF, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 11 Pro),",INTEL,I7,14,NVIDIA,RTX,5070,32,1000,0,1504323
+"(Intel Core i7-14700KF, RAM 32 ГБ, SSD 500 ГБ, NVIDIA GeForce RTX 5070 Ti (16 Гб), Windows 11 Pro), ",INTEL,I7,14,NVIDIA,RTX,5070,32,500,0,1477211
+"Игровой компьютер (AMD Ryzen 9 7900X, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4080 (16 Гб), Window",AMD,RYZEN 9,79,NVIDIA,RTX,4080,16,512,74,1646462
+"Игровой компьютер (AMD Ryzen 7 7700, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 4070 Ti (12 ГБ), Win",AMD,RYZEN 7,77,NVIDIA,RTX,4070,64,2048,74,1841884
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 480 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), ), черный 25 декабря",INTEL,I5,10,NVIDIA,RTX,3060,16,480,0,386015
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V348 (Inte",INTEL,XEON,26,AMD,RX,580,16,128,2,261467
+"(AMD Ryzen 5 2600, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3070 для ноутбуков (8 Гб), Windows 11 P",AMD,RYZEN 5,26,NVIDIA,RTX,3070,32,512,33,538701
+"(Intel Core i3-8100, RAM 8 ГБ, SSD 120 ГБ, Intel UHD Graphics 630, Windows 10 Home), черный матовый ",INTEL,I3,8,INTEL,INTEGRATED_INTEL,0,8,120,0,151047
+"(Intel Core i5-13400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro),",INTEL,I5,13,NVIDIA,RTX,2060,16,256,5,598111
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V201 (Inte",INTEL,I3,0,AMD,RX,5700,16,256,2,317221
+"(Intel Core i5-13400F, RAM 32 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 4070 SUPER (12 Гб), Windows 11 Pro)",INTEL,I5,13,NVIDIA,RTX,4070,32,256,5,1063996
+"Игровой компьютер (AMD Ryzen 7 7700, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4080 (16 Гб), Windows",AMD,RYZEN 7,77,NVIDIA,RTX,4080,16,512,74,1524227
+"D6 (AMD Ryzen 5 8400F, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 20234171, б",AMD,RYZEN 5,84,AMD,RX,580,16,512,0,919032
+"(Intel Core i3-2120, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics, Windows 10 Pro), M-WORKST-32, черный 4",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,8,256,1,55019
+"Игровой компьютер ПК (Intel Core i5-10400F, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows",INTEL,I5,10,AMD,RX,580,32,512,0,2493596
+"Z4 (Intel Core i5-12400, RAM 32 ГБ, SSD 2048 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 20243330, ",INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,32,2048,0,900227
+"Офисный компьютер ITP Premium 1002 (AMD Ryzen 5 5600G, RAM 8 ГБ, SSD 512 ГБ, AMD Radeon RX Vega 7, W",AMD,RYZEN 5,56,AMD,OTHER_AMD,0,8,512,2,430784
+"Игровой компьютер ITP Premium 2344 (Intel Core i7-14700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX",INTEL,I7,14,NVIDIA,RTX,5060,32,1000,3,1250696
+"Office (Intel Core i3-2100, RAM 4 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I3,2,INTEL,INTEGRATED_INTEL,0,4,240,105,85741
+"Игровой компьютер ИграйМного Intel i-12100F RX5700XT 32Gb 1Тб SSD (Intel Core i3-12100F, RAM 16 ГБ, ",INTEL,I3,12,AMD,RX,5700,16,1000,0,689477
+"(AMD Ryzen 5 8400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1060 (6 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,84,NVIDIA,GTX,1060,16,256,5,545532
+"Игровой компьютер ПК (Intel Xeon E5-2650, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 1",INTEL,XEON,26,AMD,RX,580,32,512,0,2610407
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Win",AMD,RYZEN 5,56,NVIDIA,RTX,3060,32,1024,0,1038452
+"(Intel Core i5-3330, RAM 8 ГБ, SSD 512 ГБ, Intel HD Graphics 2500, Windows 10 Home), черный матовый ",INTEL,I5,3,INTEL,INTEGRATED_INTEL,0,8,512,0,130596
+"Игровой компьютер ПК (Intel Core i5-10400F, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Window",INTEL,I5,10,AMD,RX,580,16,1024,0,2618067
+"Игровой компьютер (AMD Ryzen 5 7500F, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 4070 Ti SUPER (16 Г",AMD,RYZEN 5,75,NVIDIA,RTX,4070,64,2048,74,1957836
+"Игровой компьютер ITP Premium 2369 (Intel Core i5-12400F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX",INTEL,I5,12,NVIDIA,RTX,5060,32,2000,0,1150097
+"Игровой компьютер (Intel Core i7-13700F, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 4080 SUPER (16 Г",INTEL,I7,13,NVIDIA,RTX,4080,64,2048,74,2179793
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Windows 11 Pro), че",AMD,RYZEN 5,55,NVIDIA,RTX,2060,16,1024,5,608634
+"OneOffice (Intel Core i3-3220, RAM 8 ГБ, SSD 100 ГБ, HDD 512 ГБ, Intel HD Graphics 2500, Windows 10 ",INTEL,I3,3,INTEL,INTEGRATED_INTEL,0,8,100,3,126461
+"F4 (Intel Core i9-12900, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 770, Windows 11 Pro), 20230947, ч",INTEL,I9,12,INTEL,INTEGRATED_INTEL,0,16,512,8,810604
+"Игровой компьютер ПК (Intel Xeon E5-2650, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Win",INTEL,XEON,26,NVIDIA,RTX,4060,32,512,0,3368362
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V19 (Intel",INTEL,I3,12,AMD,RX,5600,8,512,2,378043
+"Игровой компьютер ПК (AMD Ryzen 5 3600, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windo",AMD,RYZEN 5,36,NVIDIA,RTX,3050,32,512,0,1745213
+"Игровой компьютер ПК системный блок Роскомп (Intel Xeon E5-2650, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeFor",INTEL,XEON,26,NVIDIA,RTX,4060,16,512,0,3190758
+"Игровой компьютер ПК системный блок Роскомп (Intel Xeon E5-2650, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon R",INTEL,XEON,26,AMD,RX,580,16,512,0,3190758
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V34 (Intel",INTEL,I3,12,AMD,RX,5700,8,256,2,398315
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V193 (Inte",INTEL,I3,0,AMD,RX,5600,8,128,2,261467
+"Игровой компьютер ПК (Intel Xeon E5-2650, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Wi",INTEL,XEON,26,NVIDIA,RTX,3050,32,1024,0,2042997
+"Игровой компьютер ПК (Intel Core i5-10400F, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Window",INTEL,I5,10,AMD,RX,580,32,1024,0,2210865
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V79 (Intel",INTEL,I3,12,NVIDIA,RTX,5060,8,512,2,571116
+"Mini (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), ",INTEL,I5,12,NVIDIA,RTX,5060,16,512,1,985042
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V13 (Intel",INTEL,I3,12,AMD,RX,580,8,128,2,323303
+"Black (Intel Core i7-14700KF, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11",INTEL,I7,14,NVIDIA,RTX,5060,64,2048,1,1972529
+"Storm (Intel Core i9-14900KF, RAM 64 ГБ, SSD 1920 ГБ, HDD 1920 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), ",INTEL,I9,14,NVIDIA,RTX,5070,64,1920,5,1928141
+"Игровой компьютер ITP Premium 807 (Intel Core i5-12400F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX ",INTEL,I5,12,NVIDIA,RTX,4060,32,2000,39,1029136
+"(AMD Ryzen 3 3200G, RAM 8 ГБ, SSD 240 ГБ, AMD Radeon Vega 8, Windows 10 Pro) 1 января",AMD,RYZEN 3,32,AMD,OTHER_AMD,0,8,240,0,180917
+"R3 (AMD Ryzen 7 5700G, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX Vega 8, Windows 11 Pro), 20210014, черн",AMD,RYZEN 7,57,AMD,OTHER_AMD,0,32,1024,3,781085
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForc",AMD,RYZEN 5,56,NVIDIA,RTX,4060,32,1024,0,1277928
+"F3 (AMD Ryzen 5 8400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 11 Pro), 202123",AMD,RYZEN 5,84,NVIDIA,OTHER_NVIDIA,0,16,512,2,834415
+"Игровой компьютер ForceGames I7-8700 (Intel Core i7-8700, RAM 16 ГБ, SSD 1000 ГБ, AMD Radeon RX 5700",INTEL,I7,8,AMD,RX,5700,16,1000,0,669137
+"Игровой компьютер ПК (Intel Core i5-12400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 Ti (8 Гб)",INTEL,I5,12,NVIDIA,RTX,5060,16,512,0,1825957
+"S5 (AMD Ryzen 3 3200G, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon RX Vega 8, Windows 11 Pro), 20225527, белый ",AMD,RYZEN 3,32,AMD,OTHER_AMD,0,8,256,1,378869
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V378 (Inte",INTEL,XEON,26,NVIDIA,GTX,1060,16,512,2,290866
+"Chili Peppers (Intel Core i5-12400F, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windo",INTEL,I5,12,NVIDIA,RTX,3060,32,960,233,805340
+"S5 (AMD Ryzen 7 5700, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 11 Pro), 2022562",AMD,RYZEN 7,57,NVIDIA,OTHER_NVIDIA,0,16,512,1,734799
+"Mini (Intel Core i9-14900KF, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 2022",INTEL,I9,14,AMD,RX,580,32,1024,6,1282680
+"Игровой компьютер ПК системный блок Роскомп (Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA Ge",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,0,3210804
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForc",AMD,RYZEN 5,56,NVIDIA,RTX,3070,32,1024,0,3190758
+"Mini (AMD Ryzen 7 8700F, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 20236654",AMD,RYZEN 7,87,AMD,RX,580,32,1024,2,1261153
+"DK3 (AMD Ryzen 5 8400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 11 Pro), 20213",AMD,RYZEN 5,84,NVIDIA,OTHER_NVIDIA,0,16,512,2,836165
+"Игровой компьютер ПК (Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), ",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,0,3203610
+"C2 (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), 2",AMD,RYZEN 5,56,NVIDIA,RTX,5060,32,1024,2,1384761
+"Игровой компьютер ПК (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Win",AMD,RYZEN 5,75,NVIDIA,RTX,5060,32,1024,0,3579402
+"Chili Peppers (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 960 ГБ, NVIDIA GeForce RTX 2060 SUPER (8 Гб), Window",AMD,RYZEN 5,56,NVIDIA,RTX,2060,32,960,233,694751
+"S5 (AMD Ryzen 7 8700F, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 20240882, ",AMD,RYZEN 7,87,AMD,RX,580,32,1024,1,1274093
+"Mini (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 20236554, ",AMD,RYZEN 5,56,AMD,RX,580,16,512,2,771662
+"C2 (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), 20",AMD,RYZEN 5,56,NVIDIA,RTX,5060,32,512,2,1334584
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V190 (Inte",INTEL,I3,0,AMD,RX,5600,8,256,2,275660
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), W",AMD,RYZEN 5,56,NVIDIA,RTX,4060,32,1024,0,4839149
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeFor",AMD,RYZEN 5,75,NVIDIA,RTX,4060,16,1024,0,3190758
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), W",AMD,RYZEN 5,56,NVIDIA,RTX,4060,16,1024,1,3877531
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V204 (Inte",INTEL,I3,0,AMD,RX,5700,16,128,2,303030
+"Игровой компьютер ITP Premium 1529 (Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX",INTEL,I5,13,NVIDIA,RTX,3050,32,1000,0,802086
+"(Intel Core i3-6100, RAM 16 ГБ, SSD 120 ГБ, Intel HD Graphics 530, Windows), черный матовый 1 января",INTEL,I3,6,INTEL,INTEGRATED_INTEL,0,16,120,0,164335
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce",AMD,RYZEN 5,55,NVIDIA,GTX,1080,32,1024,23,634539
+"Игровой компьютер ПК (AMD Ryzen 5 3600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Win",AMD,RYZEN 5,36,NVIDIA,RTX,3060,32,1024,0,2897638
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V400 (Inte",INTEL,XEON,26,NVIDIA,RTX,3060,8,1024,2,452051
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5060 (8 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,75,NVIDIA,RTX,5060,16,1024,5,885210
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeFor",AMD,RYZEN 5,75,NVIDIA,RTX,3060,16,1024,0,3190758
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 2600, RAM 8 ГБ, SSD 512 ГБ, AMD Radeon RX 5",AMD,RYZEN 5,26,AMD,RX,580,8,512,0,3190758
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 5600, RAM 8 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,56,NVIDIA,RTX,2060,8,256,0,3190758
+"Игровой компьютер ПК (Intel Core i7-12700F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), ",INTEL,I7,12,NVIDIA,RTX,4060,32,1024,0,3889686
+"Игровой компьютер ПК (AMD Ryzen 5 7500F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Wi",AMD,RYZEN 5,75,NVIDIA,RTX,5070,32,1024,0,4245364
+"Игровой компьютер ПК (AMD Ryzen 5 2600, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Wind",AMD,RYZEN 5,26,NVIDIA,RTX,3060,16,512,0,2347733
+"DK3 (AMD Ryzen 7 5700, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 20232758, ",AMD,RYZEN 7,57,AMD,RX,580,32,1024,2,987135
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce ",AMD,RYZEN 5,55,NVIDIA,GTX,1080,16,256,23,468013
+"Игровой компьютер ПК (AMD Ryzen 5 3600, RAM 32 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10 ",AMD,RYZEN 5,36,AMD,RX,580,32,512,0,1876218
+"Mini (Intel Core i9-12900F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro),",INTEL,I9,12,NVIDIA,RTX,5070,32,512,1,1637710
+"Офисный компьютер 8GEN (Intel Core i3-8100, RAM 4 ГБ, SSD 480 ГБ, Intel UHD Graphics 630, Windows 10",INTEL,I3,8,INTEL,INTEGRATED_INTEL,0,4,480,5,193393
+"Игровой компьютер ПК (Intel Core i5-13400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб",INTEL,I5,13,NVIDIA,RTX,4060,32,1024,1,4365094
+"Mini (Intel Core i7-12700K, RAM 32 ГБ, SSD 2048 ГБ, Intel UHD Graphics 770, Windows 11 Pro), 2022983",INTEL,I7,12,INTEL,INTEGRATED_INTEL,0,32,2048,6,1031841
+"(AMD Ryzen 5 5500, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,55,NVIDIA,RTX,3060,16,256,5,569722
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V120 (Inte",INTEL,I3,0,AMD,RX,5700,16,128,2,281742
+"Игровой компьютер ПК системный блок Роскомп (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForc",AMD,RYZEN 5,56,NVIDIA,RTX,5060,32,1024,0,3190758
+"Игровой компьютер ПК системный блок Роскомп (Intel Core i5-14400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA Ge",INTEL,I5,14,NVIDIA,RTX,5060,32,1024,0,3284443
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V141 (Inte",INTEL,I3,0,NVIDIA,RTX,2060,16,256,2,326345
+"(Intel Core i5-10400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), Windows 11 Pro), че",INTEL,I5,10,NVIDIA,RTX,3060,16,256,33,558433
+"(AMD Ryzen 5 2600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), черный ",AMD,RYZEN 5,26,NVIDIA,RTX,3060,32,1024,33,632178
+"R3 (Intel Core i9-14900KF, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pr",INTEL,I9,14,NVIDIA,RTX,5060,64,2048,3,2089514
+"Office (Intel Core i5-2400, RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GT 710 (2 Гб), Windows 10 Pro), чер",INTEL,I5,2,NVIDIA,OTHER_NVIDIA,0,8,512,105,154290
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 8400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce",AMD,RYZEN 5,84,NVIDIA,RTX,2060,16,256,23,634539
+"(Intel Core i5-13400F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1080 Ti (11 Гб), Windows 11 Pro), ч",INTEL,I5,13,NVIDIA,GTX,1080,16,256,5,569722
+"(Intel Core i9-14900KF, RAM 128 ГБ, SSD 1920 ГБ, HDD 1000 ГБ, NVIDIA GeForce RTX 3090 Ti (24 Гб), Wi",INTEL,I9,14,NVIDIA,RTX,3090,128,1920,0,10070338
+"Игровой компьютер ITP Premium 829 (AMD Ryzen 5 4500, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 4060",AMD,RYZEN 5,45,NVIDIA,RTX,4060,32,1000,18,914180
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V30 (Intel",INTEL,I3,12,AMD,RX,5700,16,512,2,449005
+"Игровой компьютер ПК (AMD Ryzen 5 2600, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Wind",AMD,RYZEN 5,26,NVIDIA,RTX,4060,16,1024,0,1964658
+"(Intel Core i7-2600, RAM 8 ГБ, SSD 512 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный матовый 1",INTEL,I7,2,INTEL,INTEGRATED_INTEL,0,8,512,0,144432
+"Chili Peppers (Intel Core i3-12100F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 (6 Гб), Windows ",INTEL,I3,12,NVIDIA,RTX,2060,16,512,233,500894
+"(AMD Ryzen 5 8400F, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1060 (6 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,84,NVIDIA,GTX,1060,16,512,5,577079
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1060 (6 Гб), Windows 11 Pro), черный 4",AMD,RYZEN 5,75,NVIDIA,GTX,1060,16,256,5,556050
+"Игровой компьютер ПК (AMD Ryzen 5 5600, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3060 Ti (8 Гб), W",AMD,RYZEN 5,56,NVIDIA,RTX,3060,32,1024,0,5469872
+"(AMD Ryzen 5 7500F, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce RTX 5060 Ti (16 Гб), Windows 11 Pro), черн",AMD,RYZEN 5,75,NVIDIA,RTX,5060,16,256,5,969355
+"Игровой компьютер ""BALANCE"" M2 NVME | WIFI (AMD Ryzen 5 8400F, RAM 32 ГБ, SSD 512 ГБ, NVIDIA GeForce",AMD,RYZEN 5,84,NVIDIA,RTX,3060,32,512,23,850949
+"Игровой компьютер ""BAZA V1"" Black | WI-FI | I3 12100F | I7 6700 | I7 3770 | I5 3570 | 2650V211 (Inte",INTEL,I3,0,NVIDIA,GTX,1060,8,512,2,260456
+"D6 (Intel Core i5-12400, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3060 (12 Гб), Windows 11 Pro), 20",INTEL,I5,12,NVIDIA,RTX,3060,16,512,2,1082070
+"Игровой компьютер ITP Premium 314 (Intel Core i7-12700F, RAM 32 ГБ, SSD 2000 ГБ, NVIDIA GeForce RTX ",INTEL,I7,12,NVIDIA,RTX,3060,32,2000,39,1024650
+"Игровой компьютер ПК (AMD Ryzen 5 2600, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 10",AMD,RYZEN 5,26,AMD,RX,580,16,1024,0,1108790
+"T3 (Intel Core i5-12400, RAM 32 ГБ, SSD 2048 ГБ, Intel UHD Graphics 730, Windows 11 Pro), 20238498, ",INTEL,I5,12,INTEL,INTEGRATED_INTEL,0,32,2048,1,900227
+"Игровой компьютер ITP Premium 1529 (Intel Core i5-13400F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX",INTEL,I5,13,NVIDIA,RTX,3050,32,1000,0,794127
+"(Intel Core i5-12400F, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro), чер",INTEL,I5,12,NVIDIA,RTX,5070,32,1024,33,1081868
+"(Intel Core i7-4790, RAM 16 ГБ, SSD 240 ГБ, Intel HD Graphics 4600, Windows 10 Home), черный матовый",INTEL,I7,4,INTEL,INTEGRATED_INTEL,0,16,240,0,126329
+"Игровой компьютер 1830 (Intel Core i7-12700F, RAM 32 ГБ, SSD 1000 ГБ, NVIDIA GeForce RTX 5070 (12 Гб",INTEL,I7,12,NVIDIA,RTX,5070,32,1000,10,1484284
+"Игровой компьютер ПК (Intel Core i5-10400F, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 580 (8 Гб), Windows",INTEL,I5,10,AMD,RX,580,16,512,0,631163
+"Black (Intel Core i5-12400F, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pro",INTEL,I5,12,NVIDIA,RTX,5070,64,1024,1,1759310
+"Игровой компьютер (Intel Core i5-12600K, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 Ti (8 Гб), W",INTEL,I5,12,NVIDIA,RTX,4060,16,512,74,772871
+"Компьютер для дома и работы QUANTA I5-2500 Windows 10 Pro 512Gb SSD (Intel Core i5-2500, RAM 8 ГБ, S",INTEL,I5,2,INTEL,INTEGRATED_INTEL,0,8,512,3,166427
+"Office (Intel Core i7-2600, RAM 8 ГБ, SSD 240 ГБ, Intel HD Graphics 2000, Windows 10 Pro), черный 4.",INTEL,I7,2,INTEL,INTEGRATED_INTEL,0,8,240,105,136697
+"N5 (AMD Ryzen 3 3200G, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce GT 1030 (2 Гб), Windows 11 Pro), 20218",AMD,RYZEN 3,32,NVIDIA,OTHER_NVIDIA,0,32,1024,1,787349
+"F3 (Intel Core i9-12900KF, RAM 64 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows 11 Pro), ",INTEL,I9,12,NVIDIA,RTX,4060,64,1024,2,2051915
+"Black (Intel Core i7-12700KF, RAM 64 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 5070 (12 Гб), Windows 11 Pr",INTEL,I7,12,NVIDIA,RTX,5070,64,2048,1,2010143
+"112R (AMD Ryzen 7 8700F, RAM 32 ГБ, SSD 1024 ГБ, AMD Radeon RX 580 (8 Гб), Windows 11 Pro), 20230309",AMD,RYZEN 7,87,AMD,RX,580,32,1024,2,1259042
